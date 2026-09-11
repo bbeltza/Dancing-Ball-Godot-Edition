@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dafnhqsuh5c5b"
+path="res://.godot/imported/wjazd_wyjazd_planszy.ogg-e030faa624f68249a5cf592b43eab93a.oggvorbisstr"
+
+[deps]
+
+source_file="res://Resources/audio/sfx/UI SFX/wjazd_wyjazd_planszy.ogg"
+dest_files=["res://.godot/imported/wjazd_wyjazd_planszy.ogg-e030faa624f68249a5cf592b43eab93a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

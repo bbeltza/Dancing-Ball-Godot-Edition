@@ -1,0 +1,53 @@
+[gd_scene load_steps=6 format=3 uid="uid://dgphwqeay1xn1"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_bb764"]
+albedo_color = Color(0, 0, 0, 1)
+
+[sub_resource type="SphereMesh" id="SphereMesh_gb7pt"]
+material = SubResource("StandardMaterial3D_bb764")
+
+[sub_resource type="Animation" id="Animation_44sl2"]
+resource_name = "BallEntrance"
+tracks/0/type = "bezier"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("MeshInstance3D:position:y")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"handle_modes": PackedInt32Array(0, 2),
+"points": PackedFloat32Array(21.425371, -0.25, 0, 0, -18.172321, 0.3805251, -0.7, 0.21300244, 0, 0),
+"times": PackedFloat32Array(0, 1)
+}
+
+[sub_resource type="Animation" id="Animation_p5q8d"]
+length = 0.001
+tracks/0/type = "bezier"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("MeshInstance3D:position:y")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"handle_modes": PackedInt32Array(0),
+"points": PackedFloat32Array(21.425371, -0.25, 0, 0.25, 0),
+"times": PackedFloat32Array(0)
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_p5p0w"]
+_data = {
+&"BallEntrance": SubResource("Animation_44sl2"),
+&"RESET": SubResource("Animation_p5q8d")
+}
+
+[node name="Node3D" type="Node3D"]
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+transform = Transform3D(0.33, 0, 0, 0, 0.33, 0, 0, 0, 0.33, 0, 21.425371, 0)
+mesh = SubResource("SphereMesh_gb7pt")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {
+&"": SubResource("AnimationLibrary_p5p0w")
+}
+autoplay = "BallEntrance"

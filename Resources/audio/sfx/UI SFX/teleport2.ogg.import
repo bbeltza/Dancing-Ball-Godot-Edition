@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c527ty4frv4ui"
+path="res://.godot/imported/teleport2.ogg-c07eee3c94cd1f4e8531457ac6049290.oggvorbisstr"
+
+[deps]
+
+source_file="res://Resources/audio/sfx/UI SFX/teleport2.ogg"
+dest_files=["res://.godot/imported/teleport2.ogg-c07eee3c94cd1f4e8531457ac6049290.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4

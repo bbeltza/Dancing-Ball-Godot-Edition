@@ -1,0 +1,338 @@
+[gd_scene load_steps=24 format=3 uid="uid://cahforigegdwl"]
+
+[ext_resource type="Script" uid="uid://b4d8i4gg3763x" path="res://Scripts/Control.gd" id="1_kln2b"]
+[ext_resource type="FontFile" uid="uid://cfbirwuxqihin" path="res://Font/GROTESKIA.otf" id="1_wkehv"]
+[ext_resource type="AudioStream" uid="uid://c4v561koy0kok" path="res://Resources/audio/sfx/Loops/COSMOS_loop.ogg" id="3_bmxlf"]
+[ext_resource type="AudioStream" uid="uid://cganys0nivkgi" path="res://Resources/audio/sfx/Loops/LAVA_loop.ogg" id="6_4kpch"]
+[ext_resource type="AudioStream" uid="uid://b116nfb26sjaq" path="res://Resources/audio/sfx/Loops/ISLAND_loop.ogg" id="6_bmxlf"]
+[ext_resource type="AudioStream" uid="uid://c24w5q6rfx022" path="res://Resources/audio/sfx/Loops/CASTLE_loop.ogg" id="7_4kpch"]
+[ext_resource type="AudioStream" uid="uid://c0astv7ic01rv" path="res://Resources/audio/sfx/Loops/CLOUD_loop.ogg" id="7_grg3l"]
+[ext_resource type="AudioStream" uid="uid://dedqq0w3dx62c" path="res://Resources/audio/sfx/Loops/WINTER_loop.ogg" id="8_frkhe"]
+[ext_resource type="Script" uid="uid://bu2ky4l8dsj18" path="res://Scripts/audio_stream_player_2d.gd" id="9_1p5hy"]
+[ext_resource type="Texture2D" uid="uid://7054lgdknjyo" path="res://Assets/Sprite/cog.png" id="10_h1m7h"]
+[ext_resource type="Script" uid="uid://bjyfgt7lmq5bl" path="res://Scripts/Cog.gd" id="11_4kpch"]
+
+[sub_resource type="AudioStreamPlaylist" id="AudioStreamPlaylist_erwvk"]
+stream_count = 6
+stream_0 = ExtResource("3_bmxlf")
+stream_1 = ExtResource("7_4kpch")
+stream_2 = ExtResource("6_bmxlf")
+stream_3 = ExtResource("6_4kpch")
+stream_4 = ExtResource("7_grg3l")
+stream_5 = ExtResource("8_frkhe")
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_grg3l"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_frkhe"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_1p5hy"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_h1m7h"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_erwvk"]
+
+[sub_resource type="Animation" id="Animation_frkhe"]
+resource_name = "Prelude"
+length = 5.0
+
+[sub_resource type="Animation" id="Animation_4kpch"]
+length = 0.001
+tracks/0/type = "bezier"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Panel:position:x")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"handle_modes": PackedInt32Array(0),
+"points": PackedFloat32Array(221, -0.25, 0, 0.25, 0),
+"times": PackedFloat32Array(0)
+}
+tracks/1/type = "bezier"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("Panel:position:y")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"handle_modes": PackedInt32Array(0),
+"points": PackedFloat32Array(1437, -0.25, 0, 0.25, 0),
+"times": PackedFloat32Array(0)
+}
+tracks/2/type = "bezier"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("Panel:modulate:a")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"handle_modes": PackedInt32Array(0),
+"points": PackedFloat32Array(0, -0.25, 0, 0.25, 0),
+"times": PackedFloat32Array(0)
+}
+tracks/3/type = "bezier"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath("Panel:size:x")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"handle_modes": PackedInt32Array(0),
+"points": PackedFloat32Array(500, -0.25, 0, 0.25, 0),
+"times": PackedFloat32Array(0)
+}
+tracks/4/type = "value"
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/path = NodePath("Panel2:visible")
+tracks/4/interp = 1
+tracks/4/loop_wrap = true
+tracks/4/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [false]
+}
+tracks/5/type = "bezier"
+tracks/5/imported = false
+tracks/5/enabled = true
+tracks/5/path = NodePath("Panel2:modulate:r")
+tracks/5/interp = 1
+tracks/5/loop_wrap = true
+tracks/5/keys = {
+"handle_modes": PackedInt32Array(2),
+"points": PackedFloat32Array(1, -0.25, 0, 0.25, 0),
+"times": PackedFloat32Array(0)
+}
+tracks/6/type = "bezier"
+tracks/6/imported = false
+tracks/6/enabled = true
+tracks/6/path = NodePath("Panel2:modulate:g")
+tracks/6/interp = 1
+tracks/6/loop_wrap = true
+tracks/6/keys = {
+"handle_modes": PackedInt32Array(2),
+"points": PackedFloat32Array(1, -0.25, 0, 0.25, 0),
+"times": PackedFloat32Array(0)
+}
+tracks/7/type = "bezier"
+tracks/7/imported = false
+tracks/7/enabled = true
+tracks/7/path = NodePath("Panel2:modulate:b")
+tracks/7/interp = 1
+tracks/7/loop_wrap = true
+tracks/7/keys = {
+"handle_modes": PackedInt32Array(2),
+"points": PackedFloat32Array(1, -0.25, 0, 0.25, 0),
+"times": PackedFloat32Array(0)
+}
+tracks/8/type = "bezier"
+tracks/8/imported = false
+tracks/8/enabled = true
+tracks/8/path = NodePath("Panel2:modulate:a")
+tracks/8/interp = 1
+tracks/8/loop_wrap = true
+tracks/8/keys = {
+"handle_modes": PackedInt32Array(2),
+"points": PackedFloat32Array(1, -0.25, 0, 0.25, 0),
+"times": PackedFloat32Array(0)
+}
+
+[sub_resource type="Animation" id="Animation_grg3l"]
+resource_name = "panelshow"
+tracks/0/type = "bezier"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Panel:position:x")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"handle_modes": PackedInt32Array(2, 0),
+"points": PackedFloat32Array(137, 0, 0, 0, 51.203705, 194.42592, -0.25, 0, 0.25, 0),
+"times": PackedFloat32Array(0, 1)
+}
+tracks/1/type = "bezier"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("Panel:modulate:a")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"handle_modes": PackedInt32Array(0, 0),
+"points": PackedFloat32Array(0, -0.25, 0, 0.25, 0, 1, -0.06823248, -0.16666669, 0, 0),
+"times": PackedFloat32Array(0, 0.6333333)
+}
+tracks/2/type = "bezier"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("Panel:size:x")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"handle_modes": PackedInt32Array(2, 2),
+"points": PackedFloat32Array(1, 0, 0, 0, 524.41205, 500, -0.19999999, 3.8269348, 0, 0),
+"times": PackedFloat32Array(0, 1)
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath("Panel2:visible")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [true]
+}
+tracks/4/type = "bezier"
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/path = NodePath("Panel2:modulate:r")
+tracks/4/interp = 1
+tracks/4/loop_wrap = true
+tracks/4/keys = {
+"handle_modes": PackedInt32Array(2, 2),
+"points": PackedFloat32Array(1, 0, 0, 0.16666667, 0, 1, -0.16666667, 0, 0, 0),
+"times": PackedFloat32Array(0, 1)
+}
+tracks/5/type = "bezier"
+tracks/5/imported = false
+tracks/5/enabled = true
+tracks/5/path = NodePath("Panel2:modulate:g")
+tracks/5/interp = 1
+tracks/5/loop_wrap = true
+tracks/5/keys = {
+"handle_modes": PackedInt32Array(2, 2),
+"points": PackedFloat32Array(1, 0, 0, 0.16666667, 0, 1, -0.16666667, 0, 0, 0),
+"times": PackedFloat32Array(0, 1)
+}
+tracks/6/type = "bezier"
+tracks/6/imported = false
+tracks/6/enabled = true
+tracks/6/path = NodePath("Panel2:modulate:b")
+tracks/6/interp = 1
+tracks/6/loop_wrap = true
+tracks/6/keys = {
+"handle_modes": PackedInt32Array(2, 2),
+"points": PackedFloat32Array(1, 0, 0, 0.16666667, 0, 1, -0.16666667, 0, 0, 0),
+"times": PackedFloat32Array(0, 1)
+}
+tracks/7/type = "bezier"
+tracks/7/imported = false
+tracks/7/enabled = true
+tracks/7/path = NodePath("Panel2:modulate:a")
+tracks/7/interp = 1
+tracks/7/loop_wrap = true
+tracks/7/keys = {
+"handle_modes": PackedInt32Array(2, 2),
+"points": PackedFloat32Array(0, 0, 0, 0.16666667, 0.16666667, 1, -0.16666667, 0, 0, 0),
+"times": PackedFloat32Array(0, 1)
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_frkhe"]
+_data = {
+&"Prelude": SubResource("Animation_frkhe"),
+&"RESET": SubResource("Animation_4kpch"),
+&"panelshow": SubResource("Animation_grg3l")
+}
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_4kpch"]
+bg_color = Color(0, 0, 0, 0.43137255)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_bmxlf"]
+bg_color = Color(1, 1, 1, 1)
+corner_radius_top_left = 50
+corner_radius_top_right = 50
+corner_radius_bottom_right = 50
+corner_radius_bottom_left = 50
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 1.0
+offset_right = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+script = ExtResource("1_kln2b")
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_left = 2260.0
+offset_top = 1475.0
+offset_right = 2423.0
+offset_bottom = 1517.0
+scale = Vector2(1.4284326, 1.4284326)
+theme_override_fonts/font = ExtResource("1_wkehv")
+theme_override_font_sizes/font_size = 40
+text = "Dancing Ball"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Label2" type="Label" parent="."]
+layout_mode = 0
+offset_left = 2152.0
+offset_top = 1497.0
+offset_right = 2315.0
+offset_bottom = 1539.0
+scale = Vector2(0.6689447, 0.6689447)
+theme_override_fonts/font = ExtResource("1_wkehv")
+theme_override_font_sizes/font_size = 40
+text = "Build 0724"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+stream = SubResource("AudioStreamPlaylist_erwvk")
+script = ExtResource("9_1p5hy")
+
+[node name="Button" type="Button" parent="."]
+layout_mode = 0
+offset_left = 133.0
+offset_top = 1469.9999
+offset_right = 141.0
+offset_bottom = 1477.9999
+scale = Vector2(15.61, 15.61)
+pivot_offset = Vector2(4, 4)
+theme_override_styles/normal = SubResource("StyleBoxEmpty_grg3l")
+theme_override_styles/pressed = SubResource("StyleBoxEmpty_frkhe")
+theme_override_styles/hover = SubResource("StyleBoxEmpty_1p5hy")
+theme_override_styles/disabled = SubResource("StyleBoxEmpty_h1m7h")
+theme_override_styles/focus = SubResource("StyleBoxEmpty_erwvk")
+icon = ExtResource("10_h1m7h")
+expand_icon = true
+script = ExtResource("11_4kpch")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Button"]
+root_node = NodePath("../..")
+libraries = {
+&"": SubResource("AnimationLibrary_frkhe")
+}
+
+[node name="Panel2" type="Panel" parent="."]
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_4kpch")
+
+[node name="Panel" type="Panel" parent="."]
+modulate = Color(1, 1, 1, 0)
+layout_mode = 0
+offset_left = 221.0
+offset_top = 1437.0
+offset_right = 721.0
+offset_bottom = 1541.0
+pivot_offset = Vector2(28.73, 31.7)
+theme_override_styles/panel = SubResource("StyleBoxFlat_bmxlf")
+
+[connection signal="button_up" from="Button" to="Button" method="_on_button_up"]
+[connection signal="mouse_entered" from="Button" to="Button" method="_on_mouse_entered"]
+[connection signal="mouse_exited" from="Button" to="Button" method="_on_mouse_exited"]
+[connection signal="pressed" from="Button" to="Button" method="_on_pressed"]

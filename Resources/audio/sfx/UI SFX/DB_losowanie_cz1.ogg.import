@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://pvij85n1uyk1"
+path="res://.godot/imported/DB_losowanie_cz1.ogg-af5ab5de44ae9a4ab9e6a61c47baa6d6.oggvorbisstr"
+
+[deps]
+
+source_file="res://Resources/audio/sfx/UI SFX/DB_losowanie_cz1.ogg"
+dest_files=["res://.godot/imported/DB_losowanie_cz1.ogg-af5ab5de44ae9a4ab9e6a61c47baa6d6.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

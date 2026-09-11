@@ -1,0 +1,90 @@
+LVL
+Combo
+Preludium
+Hav
+Øy
+Slott
+Ørken
+Lava
+Vinter
+Hule
+Fullfør foregående nivåer for å låse opp dette.
+Lås opp midlertidig
+Innstillinger
+gjenopprett kjøp
+musikk:
+på
+av
+lyder:
+vis veiledning
+Resterende kuler
+Ny kule om:
+Uendelig med kuler
+Ekstra kuler
+NIVÅ
+Fullfør oppdrag for å gå opp et nivå.
+Fullfør alle oppdrag og få ekstra
+GJENSTÅENDE TID:
+hopp over reklamen
+Pause
+meny
+start på nytt
+fortsett
+Høyeste poengsum
+ny rekord!
+Veiledning
+Trykk feilfritt for å få kronene!
+Dårlig
+Feilfritt!
+Bra
+Oppnå _VALUE_ % i «_LEVEL_NAME_»
+Oppnå _VALUE_ % i ekstrem «_LEVEL_NAME_»
+Få _VALUE_ kroner i «_LEVEL_NAME_»
+Fullfør «_LEVEL_NAME_» uten musikk
+Oppnå en kombinert _VALUE_ i «_LEVEL_NAME_»
+Oppnå en kombinert _VALUE_ i ekstrem «_LEVEL_NAME_»
+Gjør _VALUE_ svinger
+Kjør over _VALUE_ fliser
+Gjør _VALUE_ feilfrie (gylne) trykk
+Gjør _VALUE_ dårlige (røde) trykk
+Gjør _VALUE_ middels (oransje) trykk
+Gjør _VALUE_ hopp
+Gjør _VALUE_ teleporteringer
+BEST DEAL!
+Bruk hodetelefoner for å få den beste opplevelsen mulig!
+Følg med på musikken!
+Spill med musikken på!
+Spillet er laget for å spilles med musikken på!
+Skru opp lyden for å få en bedre opplevelse!
+Lytt, trykk og føl musikken …
+… mens du utforsker flere nivåer 
+… med uforutsigbare svinger hit og dit
+… drevet av et fantastisk lydspor!
+Trykk til rytmen
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+Språk
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

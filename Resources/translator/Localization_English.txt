@@ -1,0 +1,90 @@
+LVL
+"Perfect" streak
+Prelude
+Ocean
+Island
+Castle
+Desert
+Lava
+Winter
+Cave
+Complete previous levels to unlock this one.
+Temporary Unlock
+Settings
+restore purchases
+music: 
+on
+off
+sounds:
+show tutorial
+Remaining Balls
+New ball in:
+Infinite Balls
+Extra Balls
+LEVEL
+Complete missions to level up.
+Complete all missions and get extra
+TIME LEFT: 
+skip watch ad
+Pause
+menu
+restart
+resume
+Highscore
+new best!
+Tutorial
+Tap perfectly to get the crowns!
+Bad
+Perfect!
+Good
+Get to _VALUE_% in "_LEVEL_NAME_"
+Get to _VALUE_% in extreme "_LEVEL_NAME_"
+Get _VALUE_ crowns in "_LEVEL_NAME_"
+Finish "_LEVEL_NAME_" without music
+Make a "Perfect" streak _VALUE_ in "_LEVEL_NAME_"
+Make a "Perfect" streak _VALUE_ in extreme "_LEVEL_NAME_"
+Make _VALUE_ turns
+Travel _VALUE_ tiles
+Make _VALUE_ perfect (gold) taps
+Make _VALUE_ bad (red) taps
+Make _VALUE_ medium (orange) taps
+Make _VALUE_ jumps
+Make _VALUE_ teleports
+BEST DEAL!
+Use headphones for the best experience!
+Pay attention to the music!
+Play with the music on!
+This game is made to be played with the music on!
+For better experience set up the right volume!
+Listen, Tap & Feel The Music…
+...Exploring Multiple Levels  
+… With Unpredictable Twists & Turns
+… Powered by An Awesome Soundtrack!
+Tap To The Beat
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+Language
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

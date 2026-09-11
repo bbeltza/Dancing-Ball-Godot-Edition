@@ -1,0 +1,90 @@
+BANE
+Combo
+Intro
+Hav
+Ø
+Borg
+Ørken
+Lava
+Vinter
+Grotte
+Gennemfør tidligere baner for at låse op for denne.
+Midlertidig oplåsning
+Indstillinger
+gendan køb
+musik:
+til
+fra
+lyde:
+vis vejledning
+Resterende bolde
+Ny bold om:
+Uendelige bolde
+Ekstra bolde
+BANE
+Gennemfør missioner for at stige i niveau.
+Gennemfør alle missioner, og få ekstra
+TID TILBAGE:
+spring visning af reklame over
+Pause
+menu
+genstart
+genoptag
+Highscore
+ny rekord!
+Vejledning
+Tryk perfekt for at få kronerne!
+Dårligt
+Perfekt!
+Godt
+Nå til _VALUE_% i "_LEVEL_NAME_"
+Nå til _VALUE_% i ekstrem "_LEVEL_NAME_"
+Få _VALUE_ kroner i "_LEVEL_NAME_"
+Afslut "_LEVEL_NAME_" uden musik
+Lav en kombo _VALUE_ i "_LEVEL_NAME_"
+Lav en kombo _VALUE_ i ekstrem "_LEVEL_NAME_"
+Lav_VALUE_ vendinger
+Rejs over _VALUE_ brikker
+Lav _VALUE_ perfekte (guld) tryk
+Lav _VALUE_ dårlige (røde) tryk
+Lav _VALUE_ mellem (orange) tryk
+Lav _VALUE_ hop
+Lav _VALUE_ teleporteringer
+BEST DEAL!
+Brug høretelefoner for den bedste oplevelse!
+Vær opmærksom på musikken!
+Spil med musikken på!
+Dette spil er lavet til at blive spillet med musikken på!
+Indstil lydstyrken for at forbedre oplevelsen!
+Lyt, tryk og mærk musikken...
+...Udforsk flere baner 
+...Med uforudsigelige hændelser
+...Med et fremragende soundtrack!
+Tryk til beatet
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+Sprog
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

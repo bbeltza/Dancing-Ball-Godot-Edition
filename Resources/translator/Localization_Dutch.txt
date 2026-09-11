@@ -1,0 +1,90 @@
+LVL
+Combo
+Inleiding
+Oceaan
+Eiland
+Kasteel
+Woestijn
+Lava
+Winter
+Grot
+Voltooi vorige levels om deze te ontgrendelen.
+Tijdige ontgrendeling
+Instellingen
+Herstel aankopen
+muziek:
+aan
+uit
+geluiden:
+bekijk leerprogramma
+Overige Ballen
+Nieuwe bal in:
+Oneindige Ballen
+Extra Ballen
+LEVEL
+Voltooi missies om een hoger level te krijgen.
+Voltooi alle missies en ontvang extra
+TIJD OVER:
+sla bekijken van advertenties over
+Pauzeren
+menu
+herstarten
+doorgaan
+Hoogste score
+nieuwe beste!
+Leerprogramma
+Tik perfect om de kronen te krijgen!
+Slecht
+Perfect!
+Goed
+Bereik _VALUE_% in "_LEVEL_NAME_"
+Bereik _VALUE_% in extreme "_LEVEL_NAME_"
+Krijg _VALUE_ kronen in "_LEVEL_NAME_"
+Voltooi "_LEVEL_NAME_" zonder muziek
+Maak een combo _VALUE_ in "_LEVEL_NAME_"
+Maak een combo _VALUE_ in extreme "_LEVEL_NAME_"
+Maak _VALUE_ beurten
+Reis _VALUE_ tegels
+Maak _VALUE_ perfecte (goud) tikken
+Maak _VALUE_ slechte (rode) tikken
+Maak _VALUE_ middelmatige (oranje) tikken
+Maak _VALUE_ sprongen
+Maak _VALUE_ teleportaties
+BEST DEAL!
+Gebruik een koptelefoon voor de best mogelijke ervaring!
+Luister goed naar de muziek!
+Speel met de muziek aan!
+Dit spel is gemaakt om gespeeld te worden met de muziek aan!
+Stel het juiste volume in voor de best mogelijke ervaring!
+Luister, tik & voel de muziek...
+Ontdek alle levels 
+... Met onvoorspelbare wendingen
+... En aangedreven door een meeslepende soundtrack!
+Tik op de maat
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+Taal
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

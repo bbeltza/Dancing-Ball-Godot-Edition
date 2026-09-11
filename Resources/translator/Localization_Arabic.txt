@@ -1,0 +1,90 @@
+المستوى
+Combo
+مقدمة
+المحيط
+الجزيرة
+القلعة
+الصحراء
+الحمم البركانية
+الشتاء
+الكهف
+أكمل المستويات السابقة لفتح هذا المستوى.
+الفتح مؤقتاً
+الإعدادات
+استعادة المشتريات
+الموسيقى:
+مفعل
+معطل
+الأصوات:
+عرض التعليمات
+الكرات المتبقية
+كرة جديدة بعد:
+كرات غير محدودة
+كرات إضافية
+المستوى
+استكمل المهمات لرفع مستواك.
+استكمل كل المهمات واحصل على المزيد
+الوقت المتبقي:
+تخطي مشاهدة الإعلان
+إيقاف مؤقت
+القائمة
+إعادة البدء
+استئناف
+أعلى نتيجة
+رقم قياسي جديد!
+التعليمات
+اضغط بإتقان للحصول على التيجان!
+سيء
+ممتاز!
+جيد
+الوصول إلى _VALUE_% في "_LEVEL_NAME_"
+الوصول إلى _VALUE_% في إكستريم "_LEVEL_NAME_"
+الحصول على _VALUE_ تاج في "_LEVEL_NAME_"
+إنهاء "_LEVEL_NAME_" دون موسيقى
+تشكيل كومبو _VALUE_ في "_LEVEL_NAME_"
+تشكيل كومبر _VALUE_ في إكستريم "_LEVEL_NAME_"
+تنفيذ _VALUE_ دورات
+قطع _VALUE_ مربعات
+تنفيذ _VALUE_ ضغطات ممتازة (ذهبية)
+تنفيذ _VALUE_ ضغطات سيئة (حمراء)
+تنفيذ _VALUE_ ضغطات متوسطة (برتقالية)
+تنفيذ _VALUE_ قفزات
+تنفيذ _VALUE_ انتقالات
+BEST DEAL!
+استخدم سماعة رأس لأفضل تجربة لعب!
+انتبه للموسيقى!
+تأكد من تمكين الموسيقى!
+هذه اللعبة مصممة لتلعبها مع الموسيقى!
+اختر مستوى صوت مناسب لتجربة لعب أفضل!
+اسمع، أنقر و أشعر بالموسيقى...
+...جاري اكتشاف المستويات المتعددة
+...بإلتوائات و متاهات مفاجئة
+...مدعومة بموسيقى رائعة!
+أنقر على الإيقاع
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+اللغة
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

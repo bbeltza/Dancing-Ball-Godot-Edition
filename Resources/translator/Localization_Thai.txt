@@ -1,0 +1,90 @@
+เลเวล
+Combo
+บทนำ
+มหาสมุทร
+เกาะ
+ปราสาท
+ทะเลทราย
+ลาวา
+ฤดูหนาว
+ถ้ำ
+เล่นด่านก่อนหน้าให้เสร็จสิ้นเพื่อปลดล็อกด่านนี้
+ปลดล็อกชั่วคราว
+การตั้งค่า
+คืนค่ารายการซื้อ
+เพลง:
+เปิด
+ปิด
+เสียงประกอบ:
+แสดงบทแนะนำ
+ลูกบอลที่เหลืออยู่
+ลูกบอลใหม่ในอีก:
+ลูกบอลไม่จำกัด
+ลูกบอลพิเศษ
+เลเวล
+ทำภารกิจให้เสร็จสิ้นเพื่อเพิ่มเลเวล
+ทำภารกิจทั้งหมดให้เสร็จสิ้น แล้วรับของพิเศษ
+เวลาที่เหลือ:
+ข้ามการชมโฆษณา
+หยุด
+เมนู
+เริ่มใหม่
+เล่นต่อ
+คะแนนสูงสุด
+คะแนนที่ดีที่สุดใหม่!
+บทแนะนำ
+แตะอย่างสมบูรณ์แบบเพื่อรับมงกุฎ!
+แย่
+สมบูรณ์แบบ!
+ดี
+ทำให้ได้ _VALUE_% ใน "_LEVEL_NAME_"
+ทำให้ได้ _VALUE_% ใน "_LEVEL_NAME_" ขั้นสุด
+ทำให้ได้ _VALUE_ มงกุฎ ใน "_LEVEL_NAME_"
+สิ้นสุด "_LEVEL_NAME_" โดยไม่มีเสียงดนตรี
+ทำคอมโบ _VALUE_ ใน "_LEVEL_NAME_"
+ทำคอมโบ _VALUE_ ใน "_LEVEL_NAME_" ขั้นสุด
+หมุนให้ได้ _VALUE_
+เดินให้ได้ _VALUE_ แผ่น
+แตะให้ได้ _VALUE_ สมบูรณ์แบบ (สีทอง)
+แตะให้ได้ _VALUE_ แย่ (สีแดง)
+แตะให้ได้ _VALUE_ กลาง (สีส้ม)
+กระโดดให้ได้ _VALUE_
+เทเลพอร์ตให้ได้ _VALUE_
+BEST DEAL!
+ใช้หูฟังเพื่อประสบการณ์ที่ดีที่สุด!
+ตั้งใจฟังเพลงให้ดี!
+เล่นพร้อมเสียงเพลง!
+เกมนี้ออกแบบมาให้เล่นพร้อมเสียงเพลง!
+ปรับระดับความดังให้เหมาะเพื่อประสบการณ์ที่ดีขึ้น!
+ฟัง แตะ และสัมผัสเสียงดนตรี...
+...สำรวจเลเวลต่างๆ
+...พร้อมการหักมุมและการเลี้ยวที่ไม่สามารถคาดเดาได้
+...สนับสนุนโดยซาวด์แทรคสุดเจ๋ง
+แตะไปตามจังหวะดนตรี
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+ภาษา
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

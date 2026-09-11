@@ -1,0 +1,90 @@
+NV
+Combo
+Prélude
+Océean
+Île
+Château
+Désert
+Lave
+Hiver
+Grotte
+Terminez les niveaux précédents pour débloquer celui-ci.
+Déblocage temporaire
+Paramètres
+restaurer les achats
+musique :
+activée
+désactivée
+sons :
+afficher le didacticiel
+Balles restantes
+Nouvelle balle dans :
+Balles infinies
+Balles supplémentaires
+NIVEAU
+Terminez les missions pour monter en niveau.
+Terminez toutes les missions et recevez plus de
+TEMPS RESTANT :
+passer le visionnage de pub
+Pause
+menu
+recommencer
+reprendre
+Meilleur score
+nouveau record !
+Didacticiel
+Touchez à la perfection pour recevoir les couronnes !
+Mauvais
+Parfait !
+Bon
+Accédez à _VALUE_% dans « _LEVEL_NAME_ »
+Accédez à _VALUE_% dans « _LEVEL_NAME_ » extrême
+Récupérez _VALUE_ couronnes dans « _LEVEL_NAME_ »
+Terminez « _LEVEL_NAME_ » sans musique
+Réalisez un combo _VALUE_ dans « _LEVEL_NAME_ »
+Réalisez un combo _VALUE_ dans « _LEVEL_NAME_ » extrême
+Effectuez _VALUE_ virages
+Déplacez-vous sur _VALUE_ cases
+Réalisez _VALUE_ touches parfaites (or
+Réalisez _VALUE_ mauvaises touches (rouge)
+Réalisez _VALUE_ touches moyennes (orange)
+Réalisez _VALUE_ sauts
+Effectuez _VALUE_ téléportations
+BEST DEAL!
+Utilisez des écouteurs pour profiter pleinement de l'expérience !
+Écoutez attentivement la musique !
+Jouez en musique !
+Ce jeu se joue en musique !
+Pour profiter pleinement de cette expérience, définissez le niveau d'intensité sonore !
+Écoutez, touchez, et ressentez la musique...
+... Explorez de multiples niveaux 
+... aux pièges imprévisibles
+... tout en écoutant une bande sonore exceptionnelle !
+Touchez en rythme
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+Langue
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

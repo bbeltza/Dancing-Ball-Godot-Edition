@@ -1,0 +1,90 @@
+NVL
+Combo
+Prelúdio
+Oceano
+Ilha
+Castelo
+Deserto
+Lava
+Inverno
+Caverna
+Conclua níveis anteriores para desbloquear este.
+Desbloqueio temporário
+Configurações
+restaurar compras
+música:
+ligado
+desligado
+sons:
+mostrar tutorial
+Bolas restantes
+Nova bola em:
+Bolas infinitas
+Bolas extras
+NÍVEL
+Cumpra missões para subir de nível
+Cumpra todas as missões e ganhe mais
+TEMPO RESTANTE:
+pular anúncio
+Pausar
+menu
+reiniciar
+continuar
+recorde
+novo recorde!
+Tutorial
+Toque perfeitamente para pegar as coroas!
+Ruim
+Perfeito!
+Bom
+Chegue a _VALUE_% em "_LEVEL_NAME_"
+Chegue a _VALUE_% em "_LEVEL_NAME_" extremo
+Pegue _VALUE_ coroas em "_LEVEL_NAME_"
+Conclua "_LEVEL_NAME_" sem música
+Faça um combo de _VALUE_ em "_LEVEL_NAME_"
+Faça um combo de _VALUE_ em "_LEVEL_NAME_" extremo
+Faça _VALUE_ curvas
+Viaje por _VALUE_ ladrilhos
+Faça _VALUE_ toques perfeitos (dourados)
+Faça _VALUE_ toques ruins (vermelhos)
+Faça _VALUE_ toques médios (laranjas)
+Faça _VALUE_ pulos
+Faça _VALUE_ teletransportes
+BEST DEAL!
+Use fones de ouvido para obter a melhor experiência!
+Preste atenção na música!
+Jogue com a música ligada!
+Este jogo foi criado para ser jogado com a música ligada!
+Para uma melhor experiência, defina um volume adequado!
+Ouça, toque e sinta a música...
+...Explorando vários níveis 
+... Com torções e giros imprevisíveis
+… Acionados por uma trilha sonora incrível!
+Toque conforme a batida
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+Idioma
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

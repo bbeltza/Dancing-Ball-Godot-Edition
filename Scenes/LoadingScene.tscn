@@ -1,0 +1,94 @@
+[gd_scene load_steps=10 format=3 uid="uid://b4nak6tbhn2mp"]
+
+[ext_resource type="Script" uid="uid://cx38n5w27lmtw" path="res://control.gd" id="1_5w0ic"]
+[ext_resource type="Texture2D" uid="uid://c8724qwaudg7o" path="res://UI/gradientvarient.png" id="2_0m0ru"]
+[ext_resource type="Texture2D" uid="uid://y5ctpp17ohjl" path="res://UI/ArcAsset01_LOADING.png" id="5_3u80o"]
+[ext_resource type="Script" uid="uid://bkvw360htwxke" path="res://Scripts/rotatingarc2.gd" id="6_3u80o"]
+[ext_resource type="Script" uid="uid://bf5ylnbty1kd5" path="res://Scripts/rotation.gd" id="6_ombny"]
+[ext_resource type="FontFile" uid="uid://cfbirwuxqihin" path="res://Font/GROTESKIA.otf" id="7_ombny"]
+[ext_resource type="Texture2D" uid="uid://devyc2dg34a17" path="res://UI/ArcAsset02_LOADING.png" id="8_0m0ru"]
+[ext_resource type="Script" uid="uid://dya12tabh4pqf" path="res://Scripts/TipsLabel.gd" id="8_w5l2i"]
+[ext_resource type="Script" uid="uid://dpnyppg2ri5tx" path="res://Scripts/arc_asset_02_loading.gd" id="9_4catc"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_5w0ic")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(1269, 813.00006)
+scale = Vector2(123.30302, 3.9315052)
+texture = ExtResource("2_0m0ru")
+region_enabled = true
+region_rect = Rect2(7.708252, 77.33173, 88.666016, 853.66876)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -1286.0
+offset_top = 152.0
+offset_right = 1280.0
+offset_bottom = 263.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(1061, 52)
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("7_ombny")
+theme_override_font_sizes/font_size = 56
+text = "ABC"
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 2
+script = ExtResource("8_w5l2i")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = -20.0
+offset_right = 20.0
+offset_bottom = 20.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.36976174, 0.36976174)
+pivot_offset = Vector2(311.05, 311.07)
+texture = ExtResource("5_3u80o")
+script = ExtResource("6_ombny")
+
+[node name="TextureRect2" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = -20.0
+offset_right = 20.0
+offset_bottom = 20.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.33047956, 0.33047956)
+pivot_offset = Vector2(311.05, 311.07)
+texture = ExtResource("5_3u80o")
+script = ExtResource("6_3u80o")
+
+[node name="ArcAsset02Loading" type="Sprite2D" parent="."]
+position = Vector2(1280, 800)
+scale = Vector2(0.41344061, 0.41344061)
+texture = ExtResource("8_0m0ru")
+script = ExtResource("9_4catc")

@@ -1,0 +1,90 @@
+Level
+Combo
+Vorwort
+Ozean
+Insel
+Schloss
+Wüste
+Lava
+Winter
+Höhle
+Beende vorherige Level, um diesen freizuschalten.
+Kurzzeitig freigeschaltet
+Einstellungen
+Käufe wiederherstellen
+Musik:
+Ein
+Aus
+Sounds:
+Tutorial zeigen
+Verbleibende Bälle
+Neuer Ball in:
+Unendliche Bälle
+Extra-Bälle
+LEVEL
+Beende Missionen, um neue Level zu erreichen.
+Beende alle Missionen und erhalte zusätzlich
+ÜBRIGE ZEIT:
+Werbung überspringen
+Pause
+Menü
+Neustart
+Fortsetzen
+Highscore
+Neue Höchstpunktzahl!
+Tutorial
+Perfekt tippen, um die Kronen zu erhalten!
+Schlecht
+Perfekt!
+Gut
+Erreiche _VALUE_% in "_LEVEL_NAME_"
+Erreiche _VALUE_% in "_LEVEL_NAME_" auf Extrem
+Erhalte _VALUE_ Kronen in "_LEVEL_NAME_"
+Beende "_LEVEL_NAME_" ohne Musik
+Schaffe eine Kombination _VALUE_ in "_LEVEL_NAME_"
+Schaffe eine Kombination _VALUE_ in "_LEVEL_NAME_" auf Extrem
+Mache _VALUE_ Züge
+Überquere _VALUE_ Felder
+Mache _VALUE_ perfekte (goldene) Tipper
+Mache _VALUE_ schlechte (rote) Tipper
+Mache _VALUE_ mittlere (orange) Tipper
+Mache _VALUE_ Sprünge
+Benutze _VALUE_ Teleporter
+BEST DEAL!
+Benutze die Kopfhörer für ein optimales Erlebnis!
+Achte auf die Musik!
+Spiele und lass die Musik laufen!
+Dieses Spiel wurde gemacht, um es mit Musik zu spielen!
+Für eine besseres Spielerlebnis muss du die richtige Lautstärke wählen!
+Zuhören, tippen & die Musik spüren...
+...zahlreiche Level erforschen 
+... mit nicht vorhersehbaren Drehungen und Wendungen
+... angetrieben von einem tollen Soundtrack!
+Tippe zum Rhythmus
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+Sprache
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

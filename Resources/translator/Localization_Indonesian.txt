@@ -1,0 +1,90 @@
+LVL
+Combo
+Pendahuluan
+Samudera
+Pulau
+Kastil
+Padang Pasir
+Lahar
+Musim Dingin
+Gua
+Selesaikan level sebelumnya untuk membuka level ini.
+Buka Kunci Sementara
+Pengaturan
+pulihkan pembelian
+musik:
+nyala
+mati
+suara:
+tampilkan tutorial
+Bola Tersisa
+Bola baru dalam:
+Bola Tanpa Batas
+Bola Ekstra
+LEVEL
+Selesaikan misi untuk naik level.
+Selesaikan semua misi dan dapatkan ekstra
+SISA WAKTU:
+lompati melihat iklan
+Jeda
+menu
+mulai ulang
+lanjutkan
+Skor tertinggi
+terbaik baru!
+Tutorial
+Ketuk dengan sempurna untuk mendapatkan mahkota!
+Buruk
+Sempurna!
+Bagus
+Mencapai _VALUE_% di "_LEVEL_NAME_"
+Mencapai _VALUE_% di "_LEVEL_NAME_" ekstrem
+Mendapatkan _VALUE_ mahkota di "_LEVEL_NAME_"
+Menyelesaikan "_LEVEL_NAME_" tanpa musik
+Menghasilkan _VALUE_ kombo di "_LEVEL_NAME_"
+Menghasilkan _VALUE_ kombo di "_LEVEL_NAME_" ekstrem
+Melakukan _VALUE_ belokan
+Menempuh _VALUE_ ubin
+Melakukan _VALUE_ ketukan sempurna (emas)
+Melakukan _VALUE_ ketukan buruk (merah)
+Melakukan _VALUE_ ketukan sedang (oranye)
+Melakukan _VALUE_ lompatan
+Melakukan _VALUE_ teleportasi
+BEST DEAL!
+Gunakan peranti dengar untuk pengalaman terbaik!
+Perhatikan musiknya!
+Putar dengan musik dinyalakan!
+Game ini dibuat untuk dimainkan dengan musik dinyalakan!
+Untuk pengalaman yang lebih baik atur volume yang tepat!
+Dengarkan, Ketuk, & Rasakan Musiknya...
+...Menjelajahi Berbagai Level 
+... Dengan Kejutan & Perubahan Tak Terduga
+... Didukung dengan Soundtrack Keren!
+Ketuk sesuai Irama
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+Bahasa
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

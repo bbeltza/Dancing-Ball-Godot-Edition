@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 81d6b8c31221a8045af0199e7b061ca9
+timeCreated: 1783736588
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 96
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GROTESKIA
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: da498285941f81e43b9a6b99b6649685, type: 3}
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

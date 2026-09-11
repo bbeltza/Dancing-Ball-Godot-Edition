@@ -1,0 +1,90 @@
+लेवल
+Combo
+प्रस्तावना
+समुद्र
+टापू
+किला
+मरुस्थल
+लावा
+जाड़ा
+गुफा
+इसे अनलॉक करने के लिए पिछले स्तर को पूरा करें
+अस्थाई अनलॉक
+सेटिंग्स
+खरीद रीस्टोर करें
+संगीत:
+चालू
+बंद
+ध्वनियां:
+ट्यूटोरियल दिखाएं
+शेष गेंदें
+नई गेंद अब:
+असीमित गेंदें
+अतिरिक्त गेंदें
+लेवल
+ऊपर के लेवल के लिए मिशन पूरा करें।
+सभी मिशन पूरा करें और अतिरिक्त पाएं
+शेष समय:
+विज्ञापन देखना छोड़ें
+रुकें
+मेनु
+रीस्टार्ट
+शुरू करें
+उच्चतम स्कोर
+नया सर्वोत्तम
+ट्यूटोरियल
+मुकुट पाने के लिए सही से टैप करें!
+बुरा
+बिलकुल सही!
+अच्छा
+"_LEVEL_NAME_" में _VALUE_% पर जाएं
+Get to _VALUE_% अत्यधिक में "_LEVEL_NAME_"
+Get _VALUE_ में मुकुट "_LEVEL_NAME_"
+"_LEVEL_NAME_" बिना संगीत के पूरा करें
+"_LEVEL_NAME_" में कॉम्बो _VALUE_ बनाएं
+"_LEVEL_NAME_" अत्यधिक में कॉम्बो _VALUE_ बनाएं
+_VALUE_ बारी बनाएं
+_VALUE_ टाइल की यात्रा करें
+_VALUE_ सही (सुनहला) टैप बनाएं
+_VALUE_ बुरे (लाल) टैप बनाएं
+_VALUE_ मध्यम (नारंगी) टैप बनाएं
+_VALUE_ जंप बनाएं
+_VALUE_ टेलीपोर्ट बनाएं
+BEST DEAL!
+सर्वोत्तम अनुभव के लिए हेडफोन का प्रयोग करें!
+संगीत पर ध्यान दें!
+गाने के साथ खेलें!
+यह गेम गाने के साथ खेलने के लिए बना है!
+बेहतर अनुभव के लिए सही वॉल्यूम निर्धारित करें!
+सुनें, टैप करें और संगीत को अनुभव करें...
+...कई सारे लेवल एक्सप्लोर किए जा रहे हैं 
+... अप्रत्याशित मोड़ और घुमाव के साथ
+... एक लाजवाब साउंडट्रैक के साथ मजबूत!
+धुन  के साथ टैप करें
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+भाषा
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

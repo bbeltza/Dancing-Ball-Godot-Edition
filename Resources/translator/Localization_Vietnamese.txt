@@ -1,0 +1,90 @@
+Cửa
+Combo
+Mở đầu
+Đại dương
+Đảo
+Lâu đài
+Sa mạc
+Dung nham
+Mùa đông
+Hang động
+Hoàn thành các cửa trước đó để mở khóa cửa này.
+Mở khóa Tạm thời
+Cài đặt
+Phục hồi thanh toán
+âm nhạc:
+bật
+tắt
+âm thanh:
+hiện hướng dẫn
+Bóng còn lại
+Bóng mới trong:
+Bóng vô tận
+Bóng thêm
+CỬA
+Hoàn thành nhiệm vụ để tăng cấp
+Hoàn thành tất cả nhiệm vụ và nhận thêm
+THỜI GIAN CÒN LẠI:
+bỏ qua xem quảng cáo
+Tạm dừng
+menu
+Khởi động lại
+Hồi phục lại
+Điểm cao
+điểm cao nhất mới!
+Hướng dẫn
+Nhấp hoàn hảo để nhận vương miện!
+Kém
+Hoàn hảo!
+Tốt
+Đạt _VALUE_% trong "_LEVEL_NAME_"
+Đạt _VALUE_% trong "_LEVEL_NAME_" khắc nghiệt
+Nhận _VALUE_ vương miện trong "_LEVEL_NAME_"
+Hoàn thành "_LEVEL_NAME_" mà không có nhạc
+Tạo gói _VALUE_ trong "_LEVEL_NAME_"
+Tạo gói _VALUE_ trong "_LEVEL_NAME_" khắc nghiệt
+Thực hiện _VALUE_ rẽ
+Di chuyển _VALUE_ viên
+Thực hiện _VALUE_ cú nhấp hoàn hảo (vàng)
+Thực hiện _VALUE_ cú nhấp kém (đỏ)
+Thực hiện _VALUE_ cú nhấp trung bình (cam)
+Thực hiện _VALUE_ cú nhảy
+Tạo _VALUE_ cổng viễn thông
+BEST DEAL!
+Hãy sử dụng tai nghe để có trải nghiệm tốt nhất!
+Hãy chú ý đến âm nhạc!
+Hãy chơi với âm nhạc bật lên!
+Trò chơi này được tạo ra để chơi với âm nhạc bật lên!
+Để có trải nghiệm tốt hơn, hãy cài đặt âm lượng phù hợp!
+Nghe, Gõ nhẹ & Cảm nhận Âm nhạc…
+...Khám phá Nhiều Cấp độ  
+… Với các Khúc cua & Sự đổi hướng Không thể dự đoán được
+… Được hỗ trợ bằng Nhạc phim Tuyệt vời!
+Tạo nhịp
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+Ngôn ngữ
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

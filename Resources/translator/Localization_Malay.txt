@@ -1,0 +1,90 @@
+THP
+Combo
+Permulaan
+Laut
+Pulau
+Istana
+Gurun
+Lava
+Musim Sejuk
+Gua
+Selesaikan tahap sebelumnya untuk membuka kunci yang satu ini.
+Kunci Dibuka Sementara
+Tetapan
+pulihkan pembelian
+muzik:
+hidup
+mati
+bunyi:
+tunjuk tutorial
+Baki Bola
+Bola baharu dalam:
+Bola Tanpa Had
+Bola Tambahan
+TAHAP
+Selesaikan misi untuk naik tahap.
+Selesaikan semua misi dan dapat lebih
+BAKI MASA:
+langkau tontonan iklan
+Jeda
+menu
+mula semula
+sambung semula
+Skor Tinggi
+terbaik baharu!
+Tutorial
+Ketik dengan sempurna untuk dapatkan mahkota!
+Teruk
+Sempurna!
+Baik
+Dapatkan ke _VALUE_% dalam "_LEVEL_NAME_"
+Dapatkan ke _VALUE_% dalam "_LEVEL_NAME_" ekstrem
+Dapatkan mahkota _VALUE_ dalam "_LEVEL_NAME_"
+Habiskan "_LEVEL_NAME_" tanpa muzik
+Buat kombo _VALUE_ dalam "_LEVEL_NAME_"
+Buat kombo _VALUE_ dalam "_LEVEL_NAME_" ekstrem
+Buat _VALUE_ belokan
+Bergerak _VALUE_ jubin
+Buat _VALUE_ ketikan sempurna (emas)
+Buat _VALUE_ ketikan teruk (merah)
+Buat _VALUE_ ketikan sederhana (jingga)
+Buat _VALUE_ lompatan
+Buat _VALUE_ teleport
+BEST DEAL!
+Gunakan fon kepala untuk pengalaman terbaik!
+Beri perhatian kepada muzik!
+Bermain dengan muzik dihidupkan!
+Permainan ini dibuat untuk dimainkan dengan muzik dihidupkan!
+Untuk pengalaman yang lebih baik, sediakan kelantangan yang betul!
+Dengar, Ketik & Rasai Muziknya...
+...Menerokai Berbilang Tahap 
+... Dengan Liku-liku Yang Tidak Dapat Diramal
+... Dikuasakan oleh Runut Bunyi Menakjubkan!
+Ketik Mengikut Rentak
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+Bahasa
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

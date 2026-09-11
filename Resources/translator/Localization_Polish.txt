@@ -1,0 +1,90 @@
+POZ.
+Seria "Perfektów"
+Preludium
+Ocean
+Wyspa
+Zamek
+Pustynia
+Lawa
+Zima
+Jaskinia
+Ukończenie wcześniejszych poziomów odblokuje ten poziom.
+Odblokuj tymczasowo
+Ustawienia
+przywróć zakupy
+muzyka:
+wł.
+wył.
+dźwięki:
+pokaż instrukcję
+Pozostałe piłki
+Nowa piłka za:
+Nieograniczona liczba piłek
+Dodatkowe piłki
+POZIOM
+Ukończ misje, aby awansować.
+Ukończ wszystkie misje, aby dostać dodatkowe
+POZOSTAŁY CZAS:
+pomiń reklamę
+Pauza
+menu
+restartuj
+wznów
+Najlepszy wynik
+nowy rekord!
+Instrukcja
+Zdobywasz korony, wykonując doskonałe stuknięcia!
+Źle
+Doskonale!
+Dobrze
+Dotrzyj do _VALUE_% w poziomie "_LEVEL_NAME_"
+Dotrzyj do _VALUE_% w poziomie "_LEVEL_NAME_" (tryb ekstremalny)
+Zdobądź korony: _VALUE_ w poziomie "_LEVEL_NAME_"
+Zakończ poziom "_LEVEL_NAME_" bez muzyki
+Seria "Perfektów": _VALUE_ w poziomie "_LEVEL_NAME_"
+Zrób serię "Perfektów": _VALUE_ w poziomie  "_LEVEL_NAME_" (tryb ekstremalny)
+Pokonaj zakręty: _VALUE_
+Przejedź pola: _VALUE_
+Wykonaj doskonałe (złote) stuknięcia: _VALUE_
+Wykonaj złe (czerwone) stuknięcia: _VALUE_
+Wykonaj średnie (pomarańczowe) stuknięcia: _VALUE_
+Wykonaj skoki: _VALUE_
+Wykonaj teleportacje: _VALUE_
+NAJLEPSZA OFERTA!
+Gra jest najlepsza w słuchawkach!
+Zwracaj uwagę na muzykę!
+Graj z włączoną muzyką!
+W tę grę należy grać z włączoną muzyką!
+Dla lepszego doświadczenia, ustaw odpowiedni poziom głośności!
+Słuchaj, stukaj i poczuj muzykę...
+...Poznając wiele poziomów 
+... Z nieprzewidywalnymi zwrotami i skrętami
+... Do rytmu niesamowitej ścieżki dźwiękowej!
+Stukaj w rytm muzyki
+Odblokuj
+Wybierz
+Zdejmij
+Sklep z diamentami
+Czy chcesz dostawać powiadomienia o nowych misjach i czekających na otwarcie <color=#ffff00ff>skrzynkach</color>?
+Tak
+Nie
+Język
+Wyjdź
+Czy chcesz wyjść z gry?
+Otwórz skrzynkę
+misje
+zbierz
+POMIŃ
+Nowe misje dostępne! Zagraj, żeby otworzyć skrzynke!
+Nowe misje dostępne za:
+Gratulacje!
+Czy lubisz grę "Dancing Ball"?
+Oceń mnie!
+Daj nam 5 gwiazdek za <color=#00ff00ff>DARMOWE</color> aktualizacje
+nowy rekord!
+Pełna Seria "perfektów"
+tymczasowo odblokowany
+ZA DARMO
+reklama
+UDOSTĘPNIJ
+Pokaż tablicę wyników

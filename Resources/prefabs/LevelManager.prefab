@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1709254077376921
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4730242686860875}
+  - component: {fileID: 114724804207875695}
+  m_Layer: 0
+  m_Name: LevelManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4730242686860875
+Transform:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114724804207875695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780c78d4af376959b095359d8460246f, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  levelInDevelopement:
+    prefsSuffix: 1
+    sceneName: L_NewIsland
+    levelName: Island
+    indexOnList: -1
+    streamingMP3FileName: 109_NewIslandHarder
+    BPM: 109
+    inputFileName: InputNewIslandHard
+    strokeIndex: 1
+    perfectMarkerYOffset: 0
+    fogDistanceStart: 250
+    fogDistanceEnd: 700
+    brickShader: {fileID: 4800000, guid: 3ac9a71e0d1d8e1498ba63f57be06669, type: 3}
+    maxCombo: 0
+    pathLength: 0
+    showBricksAheadCounter: 0
+  levelsInDevelopement: []
+  getLevelInDevelopementColorsFromLevelWithID: 3
+  levelsInfo:
+  - prefsSuffix: -1
+    sceneName: L_Desert
+    levelName: Desert
+    indexOnList: 3
+    streamingMP3FileName: 105_2nd80sSnareMixFix
+    BPM: 105
+    inputFileName: Input_Nature
+    strokeIndex: 1
+    perfectMarkerYOffset: 0
+    fogDistanceStart: 50
+    fogDistanceEnd: 140
+    brickShader: {fileID: 4800000, guid: 3ac9a71e0d1d8e1498ba63f57be06669, type: 3}
+    maxCombo: 0
+    pathLength: 0
+    showBricksAheadCounter: 0
+  - prefsSuffix: 2
+    sceneName: L_Cave
+    levelName: Cave
+    indexOnList: 6
+    streamingMP3FileName: 160_80s_App_Harder_Unmixed
+    BPM: 160
+    inputFileName: Input_Cave
+    strokeIndex: 0
+    perfectMarkerYOffset: 0
+    fogDistanceStart: 0
+    fogDistanceEnd: 0
+    brickShader: {fileID: 4800000, guid: 3ac9a71e0d1d8e1498ba63f57be06669, type: 3}
+    maxCombo: 0
+    pathLength: 0
+    showBricksAheadCounter: 0
+  - prefsSuffix: 4
+    sceneName: L_Prelude
+    levelName: Prelude
+    indexOnList: 0
+    streamingMP3FileName: 110_Easiest_App_Mix_HQ
+    BPM: 110
+    inputFileName: Input_Prelude
+    strokeIndex: 1
+    perfectMarkerYOffset: -0.03
+    fogDistanceStart: 35
+    fogDistanceEnd: 235
+    brickShader: {fileID: 4800000, guid: 3ac9a71e0d1d8e1498ba63f57be06669, type: 3}
+    maxCombo: 0
+    pathLength: 0
+    showBricksAheadCounter: 0
+  - prefsSuffix: 5
+    sceneName: L_Ocean
+    levelName: Ocean
+    indexOnList: 1
+    streamingMP3FileName: 110_2ndLevelFinalMix
+    BPM: 110
+    inputFileName: Input_Ocean
+    strokeIndex: 1
+    perfectMarkerYOffset: 0.1
+    fogDistanceStart: 50
+    fogDistanceEnd: 400
+    brickShader: {fileID: 4800000, guid: 2485dbbb27569ff449b54db3f132238f, type: 3}
+    maxCombo: 0
+    pathLength: 0
+    showBricksAheadCounter: 0
+  - prefsSuffix: 6
+    sceneName: L_Lava
+    levelName: Lava
+    indexOnList: 4
+    streamingMP3FileName: 115_Lava_Lead_Final_Mix
+    BPM: 115
+    inputFileName: Input_Lava
+    strokeIndex: 1
+    perfectMarkerYOffset: -0.05
+    fogDistanceStart: 50
+    fogDistanceEnd: 250
+    brickShader: {fileID: 4800000, guid: 3ac9a71e0d1d8e1498ba63f57be06669, type: 3}
+    maxCombo: 0
+    pathLength: 0
+    showBricksAheadCounter: 0
+  - prefsSuffix: 0
+    sceneName: L_Winter
+    levelName: Winter
+    indexOnList: 5
+    streamingMP3FileName: 120_Final_Sunset_Mix
+    BPM: 120
+    inputFileName: Input_Avalanche
+    strokeIndex: 0
+    perfectMarkerYOffset: 0
+    fogDistanceStart: 250
+    fogDistanceEnd: 450
+    brickShader: {fileID: 4800000, guid: 6c3ae5d07062820409f478283a14119a, type: 3}
+    maxCombo: 0
+    pathLength: 0
+    showBricksAheadCounter: 0
+  - prefsSuffix: 7
+    sceneName: L_Castle
+    levelName: Castle
+    indexOnList: 2
+    streamingMP3FileName: 115_Castle_Dancing_Ball
+    BPM: 115
+    inputFileName: Input_Castle
+    strokeIndex: 0
+    perfectMarkerYOffset: 0
+    fogDistanceStart: 250
+    fogDistanceEnd: 700
+    brickShader: {fileID: 4800000, guid: 3ac9a71e0d1d8e1498ba63f57be06669, type: 3}
+    maxCombo: 0
+    pathLength: 0
+    showBricksAheadCounter: 0
+  currentLevelInfo:
+    prefsSuffix:
+    sceneName:
+    levelName:
+    indexOnList: 0
+    streamingMP3FileName:
+    BPM: 0
+    inputFileName:
+    strokeIndex: 0
+    perfectMarkerYOffset: 0
+    fogDistanceStart: 0
+    fogDistanceEnd: 0
+    brickShader: {fileID: 0}
+    maxCombo: 0
+    pathLength: 0
+    showBricksAheadCounter: 0
+  isLevelLoaded: 0

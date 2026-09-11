@@ -1,0 +1,90 @@
+LVL
+Combo
+서곡
+대양
+섬
+성
+사막
+용암
+겨울
+동굴
+이를 잠금해제 하려면 이전 레벨을 완료하세요.
+일시 잠금해제
+설정
+구매 복원
+음악:
+켜기
+끄기
+사운드:
+튜토리얼 보기
+잔여 공
+새 공:
+무한한 공
+추가 공
+레벨
+레벨을 높이려면 미션을 완성하세요.
+모든 미션을 완성하고 추가로 받으세요
+잔여 시간:
+광고 건너뛰기
+일시 정지
+메뉴
+다시 시작
+다시 시작
+고득점
+신기록!
+튜토리얼
+왕관을 받으려면 완벽하게 탭하세요!
+좋지 않아요
+완벽해요!
+좋아요
+"_LEVEL_NAME_"에서 _VALUE_%에 도달하기
+익스트림 "_LEVEL_NAME_"에서 _VALUE_%에 도달하기
+"_LEVEL_NAME_"에서 _VALUE_왕관 받기
+음악 없이 "_LEVEL_NAME_" 마치기
+"_LEVEL_NAME_"에서 콤보 _VALUE_ 만들기
+익스트림 "_LEVEL_NAME_"에서 콤보 _VALUE_ 만들기
+_VALUE_턴 하기
+_VALUE_ 타일 여행하기
+_VALUE_ 완벽한(금색) 탭하기
+_VALUE_ 나쁜(빨간색) 탭하기
+_VALUE_ 중간(오렌지색) 탭하기
+_VALUE_ 점프하기
+_VALUE_ 순간이동 하기
+BEST DEAL!
+최고의 경험을 위해 헤드폰을 사용하세요!
+음악을 잘 들으세요!
+음악을 켜고 플레이하세요!
+이 게임은 음악을 켜고 하도록 제작되었습니다!
+보다 나은 경험을 위해 음악을 적절한 볼륨으로 맞추세요!
+음악을 듣고, 탭하고 느껴보세요...
+...여러 레벨 탐험 
+... 예측할 수 없는 변화
+... 멋진 사운드 트랙으로 인한 동력!
+박자에 맞춰 탭하기
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+언어
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

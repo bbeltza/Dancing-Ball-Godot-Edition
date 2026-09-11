@@ -1,0 +1,90 @@
+LIV
+Combo
+Preludio
+Oceano
+Isola
+Castello
+Deserto
+Lava
+Inverno
+Grotta
+Completa i livelli precedenti per sbloccare questo.
+Sblocco temporaneo
+Impostazioni
+ripristina acquisti
+musica:
+sì
+no
+suoni:
+mostra tutorial
+Palline rimaste
+Nuova pallina tra:
+Palline infinite
+Palline extra
+LIVELLO
+Completa le missioni per passare di livello.
+Completa tutte le missioni per ricevere un extra
+TEMPO RIMASTO:
+salta pubblicità
+Pausa
+menu
+riavvia
+riprendi
+Record
+nuovo record!
+Tutorial
+Esegui dei tocchi perfetti per ricevere le corone!
+Pessimo
+Perfetto!
+Bene
+Ottieni _VALUE_% in "_LEVEL_NAME_"
+Ottieni _VALUE_% nell'estremo "_LEVEL_NAME_"
+Ottieni _VALUE_ corone in "_LEVEL_NAME_"
+Termina "_LEVEL_NAME_" senza musica
+Fai una combo _VALUE_ in "_LEVEL_NAME_"
+Fai una combo _VALUE_ nell'estremo "_LEVEL_NAME_"
+Fai _VALUE_ giri
+Passa su _VALUE_ tessere
+Esegui _VALUE_ tocchi perfetti (oro)
+Esegui _VALUE_ tocchi pessimi (rossi)
+Esegui _VALUE_ tocchi medi (arancioni)
+Fai _VALUE_ salti
+Esegui _VALUE_ teletrasporti
+BEST DEAL!
+Usa le cuffie per una migliore esperienza!
+Presta attenzione alla musica!
+Gioca con la musica attiva!
+Questo gioco è concepito per essere giocato con la musica attiva!
+Per una migliore esperienza, imposta il volume giusto!
+Ascolta, tocca e senti la musica...
+... esplorando diversi livelli 
+... con svolte e curve impreviste
+... con l'aggiunta di una fantastica colonna sonora!
+Tocca a ritmo di musica
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+Lingua
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

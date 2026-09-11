@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dc3ifuxrh2d2n"
+path="res://.godot/imported/unlock_zaplata.ogg-13047f26e99f85a4b21c1d476d8fc055.oggvorbisstr"
+
+[deps]
+
+source_file="res://Resources/audio/sfx/UI SFX/unlock_zaplata.ogg"
+dest_files=["res://.godot/imported/unlock_zaplata.ogg-13047f26e99f85a4b21c1d476d8fc055.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

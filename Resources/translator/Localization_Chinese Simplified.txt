@@ -1,0 +1,90 @@
+等级
+Combo
+序曲
+海洋
+岛屿
+城堡
+沙漠
+熔岩
+冬季
+山洞
+完成之前的关卡才能解锁此关。
+临时解锁
+设置
+恢复购买
+音乐：
+打开
+关闭
+声音：
+显示教程
+剩余球数
+新球就绪：
+无限球数
+额外球数
+等级
+完成任务以升级。
+完成所有任务，获得额外奖励
+剩余时间：
+跳过观看广告
+暂停
+菜单
+重新开始
+继续
+高分
+新最佳成绩！
+教程
+用完美的点触来赢得皇冠！
+糟糕
+完美！
+好！
+在 "_LEVEL_NAME_" 达到 _VALUE_%
+在极端的 "_LEVEL_NAME_" 达到 _VALUE_%
+在 "_LEVEL_NAME_" 获得 _VALUE_ 个皇冠
+无音乐时完成 "_LEVEL_NAME_"
+在 "_LEVEL_NAME_" 完成组合 _VALUE_
+在极端的 "_LEVEL_NAME_" 中完成组合 _VALUE_
+完成 _VALUE_ 个转弯
+走过 _VALUE_ 个方格
+完成 _VALUE_ 个完美（金色）点触
+完成 _VALUE_ 个糟糕的（红色）点触
+完成 _VALUE_ 个适中的（橙色）点触
+完成 _VALUE_ 次跳跃
+完成 _VALUE_ 次远程传送
+BEST DEAL!
+请使用耳机，享受最佳体验！
+留意音乐！
+开启音乐，尽情畅玩！
+此游戏时须开启音乐！
+为拥有更理想体验，请调整至适当音量！
+聆听、点击并感受音乐……
+……探索多重关卡 
+……直面难以预测的波折
+……欣赏好听的配乐！
+随着节奏点击
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+语言
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

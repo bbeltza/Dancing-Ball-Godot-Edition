@@ -1,0 +1,90 @@
+Nivå
+Combo
+Inledning
+Hav
+Ö
+Slott
+Öken
+Lava
+Vinter
+Grotta
+Slutför föregående nivåer för att låsa upp den här.
+Lås upp tillfälligt
+Inställningar
+återställ köp
+musik:
+på
+av
+ljud:
+visa användarguide
+Bollar kvar
+Ny boll om:
+Oändligt antal bollar
+Extrabollar
+NIVÅ
+Slutför uppdrag för att gå upp en nivå.
+Slutför alla uppdrag och få extra
+TID KVAR:
+titta inte på annonsen
+Pausa
+meny
+börja om
+fortsätt
+Rekord
+nytt rekord!
+Användarguide
+Klicka perfekt för att få kronorna!
+Dåligt
+Perfekt!
+Bra
+Ta dig till _VALUE_% i "_LEVEL_NAME_"
+Ta dig till _VALUE_% i extrem "_LEVEL_NAME_"
+Få _VALUE_ kronor i "_LEVEL_NAME_"
+Avsluta "_LEVEL_NAME_" utan musik
+Gör en _VALUE_-kombo i "_LEVEL_NAME_"
+Gör en _VALUE_ -kombo i extrem "_LEVEL_NAME_"
+Gör _VALUE_ svängar
+Förflytta dig _VALUE_ brickor
+Gör _VALUE_ perfekta (guld)-klick
+Gör _VALUE_ dåliga (röda) klick
+Gör _VALUE_ medelbra (orange) klick
+Gör _VALUE_ hopp
+Gör _VALUE_ teleporteringar
+BEST DEAL!
+Använd hörlurar för bästa möjliga spelupplevelse!
+Lyssna på musiken!
+Spela med musiken på!
+Det här spelet är gjort för att spelas med musiken på!
+Ställ in rätt volym för bästa möjliga spelupplevelse!
+Lyssna, klicka och känn musiken...
+... utforska olika nivåer 
+... med oväntade svängar och vändningar
+... styrda av härlig musik
+Klicka i takt
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+Språk
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

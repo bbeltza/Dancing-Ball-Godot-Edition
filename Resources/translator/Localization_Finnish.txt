@@ -1,0 +1,90 @@
+TASO
+Combo
+Johdanto
+Valtameri
+Saari
+Linna
+Erämaa
+Laava
+Talvi
+Luola
+Avaa tämä taso läpäisemällä aiemmat tasot.
+Avaa väliaikaisesti
+Asetukset
+palauta ostokset
+musiikki:
+päällä
+pois
+äänet:
+näytä esittely
+Palloja jäljellä
+Uuteen palloon:
+Loputtomat pallot
+Lisäpallot
+TASO
+Nouse seuraavalle tasolle suorittamalla tehtäviä.
+Suorita kaikki tehtävät, niin saat lisää
+AIKAA JÄLJELLÄ:
+ohita mainos
+Keskeytä
+valikko
+aloita alusta
+jatka
+ennätys
+uusi huipputulos!
+Esittely
+Nappaa kruunut napauttelemalla täydellisesti!
+Huono
+Täydellinen!
+Hyvä
+Kerää _VALUE_% tasolla "_LEVEL_NAME_"
+Kerää _VALUE_% extreme-tasolla "_LEVEL_NAME_"
+Kerää _VALUE_ kruunua tasolla "_LEVEL_NAME_"
+Läpäise "_LEVEL_NAME_" ilman musiikkia
+Kerää _VALUE_:n kombo tasolla "_LEVEL_NAME_"
+Kerää _VALUE_:n kombo extreme-tasolla "_LEVEL_NAME_"
+Käänny _VALUE_ kertaa
+Kulje _VALUE_ tiiltä
+Napauta täydellisesti (kulta) _VALUE_ kertaa
+Napauta huonosti (punainen) _VALUE_ kertaa
+Napauta menettelevästi (oranssi) _VALUE_ kertaa
+Hyppää _VALUE_ kertaa
+Teleporttaa _VALUE_ kertaa
+BEST DEAL!
+Parhaan kokemuksen saat, kun käytät kuulokkeita!
+Keskity musiikkiin!
+Pelaa musiikki päällä!
+Tämä peli on tarkoitettu pelattavaksi musiikki päällä!
+Saat paremman kokemuksen, kun äänenvoimakkuus on sopiva!
+Kuuntele, napauttele ja tunne musiikki...
+...tutki useita tasoja 
+... ja koe odottamattomia käänteitä
+... mahtavan ääniraidan tahtiin!
+Napauttele musiikin tahtiin
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+Kieli
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

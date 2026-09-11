@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ci8wrwevhqari"
+path="res://.godot/imported/diament_zaliczony.ogg-5cabdb8fc15067f21a9909ea783cd86d.oggvorbisstr"
+
+[deps]
+
+source_file="res://Resources/audio/sfx/UI SFX/diament_zaliczony.ogg"
+dest_files=["res://.godot/imported/diament_zaliczony.ogg-5cabdb8fc15067f21a9909ea783cd86d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

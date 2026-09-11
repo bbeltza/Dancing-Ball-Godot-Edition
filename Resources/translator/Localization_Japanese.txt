@@ -1,0 +1,90 @@
+レベル
+Combo
+プレリュード
+大洋
+島
+城
+砂漠
+溶岩
+冬
+洞窟
+これをアンロックするには前のレベルを完了してください。
+一時的にアンロック
+設定
+購入を復元
+音楽:
+オン
+オフ
+サウンド:
+チュートリアルを表示
+残りボール
+新しいボールまで:
+無限ボール
+追加ボール
+レベル
+ミッションを完了してレベルアップしよう。
+すべてのミッションを完了して獲得:
+残り時間:
+広告視聴をスキップ
+一時停止
+メニュー
+リスタート
+再開
+ハイスコア
+新ベスト！
+チュートリアル
+完璧にタップして王冠を手に入れよう！
+バッド
+パーフェクト！
+グッド
+"_LEVEL_NAME_"で_VALUE_%を獲得
+エクストリームの"_LEVEL_NAME_"で_VALUE_%を獲得
+"_LEVEL_NAME_"で_VALUE_個の王冠を獲得
+"_LEVEL_NAME_"を音楽無しでクリア
+"_LEVEL_NAME_"でコンボ_VALUE_を作る
+エクストリームの"_LEVEL_NAME_"でコンボ_VALUE_を作る
+_VALUE_回ターンする
+_VALUE_タイル移動する
+_VALUE_回パーフェクト（ゴールド）タップを行う
+_VALUE_回バッド（赤）タップを行う
+_VALUE_回ミディアム（オレンジ）タップを行う
+_VALUE_回ジャンプする
+_VALUE_回テレポートする
+BEST DEAL!
+最高のエクスペリエンスを楽しむにはヘッドホンを使用しましょう！
+音楽に耳を傾けましょう！
+音楽をオンにしてプレイしましょう！
+このゲームは音楽をオンにした状態でプレイするようにデザインされています！
+より良いエクスペリエンスを楽しむには、音量を適切に設定しましょう！
+聴いてタップして音楽を体感…
+…複数のレベルを探索 
+…予測不可能な曲がりくねり
+…素晴らしいサウンドトラック登載！
+ビートに合わせてタップ
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+言語
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

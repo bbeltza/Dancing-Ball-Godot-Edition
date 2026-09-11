@@ -1,0 +1,90 @@
+NIVEL
+Combo
+Preludio
+Océano
+Isla
+Castillo
+Desierto
+Lava
+Invierno
+Cueva
+Completa los niveles anteriores para desbloquear este.
+Desbloqueo temporal
+Ajustes
+restaurar compras
+música:
+activado
+desactivado
+sonidos:
+mostrar tutorial
+Bolas restantes
+Bola nueva en:
+Bolas infinitas
+Bolas extra
+NIVEL
+Completa misiones para subir de nivel.
+Completa todas las misiones y recibe más
+TIEMPO RESTANTE:
+saltar reproducción del anuncio
+Pausa
+menú
+reiniciar
+reanudar
+Puntuación más alta
+¡nuevo récord!
+Tutorial
+¡Toca a la perfección para conseguir las coronas!
+Mal
+¡Perfecto!
+Bien
+Llegar a _VALUE_% en "_LEVEL_NAME_"
+Llegar a _VALUE_% en "_LEVEL_NAME_" extremo
+Conseguir _VALUE_ coronas en "_LEVEL_NAME_"
+Finalizar "_LEVEL_NAME_" sin música
+Hacer un combo _VALUE_ en "_LEVEL_NAME_"
+Hacer un combo _VALUE_ en "_LEVEL_NAME_" extremo
+Hacer _VALUE_ turnos
+Viajar _VALUE_ mosáicos
+Hacer _VALUE_ toques perfectos (dorado)
+Hacer _VALUE_ toques malos (rojo)
+Hacer _VALUE_ toques regulares (naranja)
+Hacer _VALUE_ saltos
+Hacer _VALUE_ teletransportes
+BEST DEAL!
+¡Utiliza cascos para disfrutar de la mejor experiencia!
+¡Presta atención a la música!
+¡Juega con la música activada!
+¡Este juego está hecho para jugarlo con la música activada!
+¡Configura el volumen adecuado para disfrutar de una mejor experiencia!
+Escucha,pulsa y siente la música...
+...explorando varios niveles 
+... con inesperados giros y vueltas
+… ¡impulsado por una estupenda banda sonora!
+Pulsa hasta superarlo
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+Idioma
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

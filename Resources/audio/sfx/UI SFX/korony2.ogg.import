@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b2ol5ajxbalko"
+path="res://.godot/imported/korony2.ogg-a02d95d3e7d88f21d14fc10ee2a817ee.oggvorbisstr"
+
+[deps]
+
+source_file="res://Resources/audio/sfx/UI SFX/korony2.ogg"
+dest_files=["res://.godot/imported/korony2.ogg-a02d95d3e7d88f21d14fc10ee2a817ee.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

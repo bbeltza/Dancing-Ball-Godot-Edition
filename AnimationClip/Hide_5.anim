@@ -1,0 +1,1778 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hide_5
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.7071068, y: 0.000022237282, z: -0.000022237282, w: 0.7071068}
+        inSlope: {x: 0.0000026822088, y: -0.005188697, z: 0.005188697, w: -0.0000026822088}
+        outSlope: {x: 0.0000026822088, y: -0.005188697, z: 0.005188697, w: -0.0000026822088}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.7071068, y: -1.4265802e-11, z: 1.4265802e-11, w: 0.7071068}
+        inSlope: {x: 0.0000035762785, y: -0.008236032, z: 0.008236032, w: -0.0000035762785}
+        outSlope: {x: 0.0000035762785, y: -0.008236032, z: 0.008236032, w: -0.0000035762785}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.4998893, y: -0.5001108, z: 0.5000114, w: 0.4999885}
+        inSlope: {x: -0.003976822, y: -0.00397861, z: 0.002840459, w: -0.0028431413}
+        outSlope: {x: -0.003976822, y: -0.00397861, z: 0.002840459, w: -0.0028431413}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.4998758, y: -0.5001243, z: 0.5000229, w: 0.49997696}
+        inSlope: {x: -0.0041207667, y: -0.0041203196, z: 0.0041028853, w: -0.0041060145}
+        outSlope: {x: -0.0041207667, y: -0.0041203196, z: 0.0041028853, w: -0.0041060145}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00011030262, y: 0.75071996, z: 0.000071535826, w: 0.65049064}
+        inSlope: {x: 0.0012484075, y: 8.494399, z: 0.0062382775, w: -3.9547007}
+        outSlope: {x: 0.0012484075, y: 8.494399, z: 0.0062382775, w: -3.9547007}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.00011244037, y: 0.76526004, z: 0.000095554824, w: 0.6437213}
+        inSlope: {x: 0.00000050407834, y: -0.0000009536743, z: 0.008226847, w: -0.0000019073486}
+        outSlope: {x: 0.00000050407834, y: -0.0000009536743, z: 0.008226847, w: -0.0000019073486}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00010141393, y: 0.7336262, z: 0.000073171046, w: 0.6542749}
+        inSlope: {x: 0.0034407924, y: 12.482914, z: 0.0057531213, w: -4.837658}
+        outSlope: {x: 0.0034407924, y: 12.482914, z: 0.0057531213, w: -4.837658}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.00011293353, y: 0.7652599, z: 0.00009510989, w: 0.6437214}
+        inSlope: {x: 0.0034717936, y: 6.3309817, z: 0.007456196, w: -1.4015222}
+        outSlope: {x: 0.0034717936, y: 6.3309817, z: 0.007456196, w: -1.4015222}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00009742121, y: 0.72635484, z: 0.000075531076, w: 0.65863967}
+        inSlope: {x: 0.0043686014, y: 14.179608, z: 0.0051986245, w: -5.8561335}
+        outSlope: {x: 0.0043686014, y: 14.179608, z: 0.0051986245, w: -5.8561335}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.000112917594, y: 0.7652601, z: 0.00009509396, w: 0.6437213}
+        inSlope: {x: 0.0049447888, y: 9.024146, z: 0.006576322, w: -3.0181503}
+        outSlope: {x: 0.0049447888, y: 9.024146, z: 0.006576322, w: -3.0181503}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0000955502, y: 0.7235527, z: 0.00007713389, w: 0.6609542}
+        inSlope: {x: 0.0047317734, y: 14.833418, z: 0.004881557, w: -6.396186}
+        outSlope: {x: 0.0047317734, y: 14.833418, z: 0.004881557, w: -6.396186}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.00011261178, y: 0.76526004, z: 0.000095350995, w: 0.6437213}
+        inSlope: {x: 0.0055266405, y: 10.061943, z: 0.0060811136, w: -3.8753772}
+        outSlope: {x: 0.0055266405, y: 10.061943, z: 0.0060811136, w: -3.8753772}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.000097594166, y: 0.72221386, z: 0.000075458534, w: 0.6622218}
+        inSlope: {x: 0.0046566725, y: 15.14586, z: 0.0050119837, w: -6.691985}
+        outSlope: {x: 0.0046566725, y: 15.14586, z: 0.0050119837, w: -6.691985}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.00011428603, y: 0.7652602, z: 0.000094210984, w: 0.64372116}
+        inSlope: {x: 0.0053779176, y: 10.557877, z: 0.006273567, w: -4.3448987}
+        outSlope: {x: 0.0053779176, y: 10.557877, z: 0.006273567, w: -4.3448987}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00009300819, y: 0.7214734, z: 0.00007979258, w: 0.6629749}
+        inSlope: {x: 0.0049803113, y: 15.318637, z: 0.0046338732, w: -6.8677125}
+        outSlope: {x: 0.0049803113, y: 15.318637, z: 0.0046338732, w: -6.8677125}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.00011117598, y: 0.7652602, z: 0.00009691707, w: 0.64372116}
+        inSlope: {x: 0.0059464597, y: 10.832129, z: 0.0056687766, w: -4.62383}
+        outSlope: {x: 0.0059464597, y: 10.832129, z: 0.0056687766, w: -4.62383}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00009582595, y: 0.72102076, z: 0.00007700009, w: 0.663455}
+        inSlope: {x: 0.005083082, y: 15.424144, z: 0.004575267, w: -6.979655}
+        outSlope: {x: 0.005083082, y: 15.424144, z: 0.004575267, w: -6.979655}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.00011434365, y: 0.76525974, z: 0.00009389338, w: 0.6437216}
+        inSlope: {x: 0.006053759, y: 10.9995985, z: 0.005588065, w: -4.8015223}
+        outSlope: {x: 0.006053759, y: 10.9995985, z: 0.005588065, w: -4.8015223}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00009498147, y: 0.720725, z: 0.000077881916, w: 0.66377753}
+        inSlope: {x: 0.0051131067, y: 15.4933, z: 0.004506956, w: -7.0550785}
+        outSlope: {x: 0.0051131067, y: 15.4933, z: 0.004506956, w: -7.0550785}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.00011364774, y: 0.7652604, z: 0.00009451078, w: 0.6437208}
+        inSlope: {x: 0.00611368, y: 11.109375, z: 0.0054971105, w: -4.9212313}
+        outSlope: {x: 0.00611368, y: 11.109375, z: 0.0054971105, w: -4.9212313}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00031127763, y: 0.7205197, z: 0.00026022934, w: 0.6640055}
+        inSlope: {x: 0.016948646, y: 15.541092, z: 0.014901193, w: -7.1081734}
+        outSlope: {x: 0.016948646, y: 15.541092, z: 0.014901193, w: -7.1081734}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.00037325048, y: 0.7652599, z: 0.00031508913, w: 0.6437212}
+        inSlope: {x: 0.0203263, y: 11.185237, z: 0.018101122, w: -5.005515}
+        outSlope: {x: 0.0203263, y: 11.185237, z: 0.018101122, w: -5.005515}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00031427, y: 0.7203722, z: 0.00025721948, w: 0.66417146}
+        inSlope: {x: 0.017032629, y: 15.575519, z: 0.014809722, w: -7.1469164}
+        outSlope: {x: 0.017032629, y: 15.575519, z: 0.014809722, w: -7.1469164}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.00037650968, y: 0.76526, z: 0.00031178174, w: 0.64372116}
+        inSlope: {x: 0.020402182, y: 11.239882, z: 0.018014202, w: -5.06701}
+        outSlope: {x: 0.020402182, y: 11.239882, z: 0.018014202, w: -5.06701}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00030107645, y: 0.7202624, z: 0.000272658, w: 0.66429627}
+        inSlope: {x: 0.016443841, y: 15.601145, z: 0.015465061, w: -7.1760306}
+        outSlope: {x: 0.016443841, y: 15.601145, z: 0.015465061, w: -7.1760306}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.00036122932, y: 0.76526, z: 0.00032952204, w: 0.64372116}
+        inSlope: {x: 0.019736823, y: 11.280557, z: 0.018741857, w: -5.1132255}
+        outSlope: {x: 0.019736823, y: 11.280557, z: 0.018741857, w: -5.1132255}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0002635767, y: 0.7201795, z: 0.0003084704, w: 0.66439116}
+        inSlope: {x: 0.014321324, y: 15.620751, z: 0.017444609, w: -7.1984887}
+        outSlope: {x: 0.014321324, y: 15.620751, z: 0.017444609, w: -7.1984887}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.00031592738, y: 0.7652611, z: 0.00037258776, w: 0.6437199}
+        inSlope: {x: 0.017165925, y: 11.311671, z: 0.021125218, w: -5.1488504}
+        outSlope: {x: 0.017165925, y: 11.311671, z: 0.021125218, w: -5.1488504}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00020363007, y: 0.72012955, z: 0.00034296387, w: 0.66444963}
+        inSlope: {x: 0.010344829, y: 15.635931, z: 0.020416275, w: -7.2165117}
+        outSlope: {x: 0.010344829, y: 15.635931, z: 0.020416275, w: -7.2165117}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.00024107513, y: 0.76527643, z: 0.00041781014, w: 0.6437016}
+        inSlope: {x: 0.01217155, y: 11.335897, z: 0.024604615, w: -5.1771345}
+        outSlope: {x: 0.01217155, y: 11.335897, z: 0.024604615, w: -5.1771345}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.000032784825, y: 0.72004557, z: 0.00041831977, w: 0.6645445}
+        inSlope: {x: 0.0021064915, y: 15.648436, z: 0.022258827, w: -7.2298403}
+        outSlope: {x: 0.0021064915, y: 15.648436, z: 0.022258827, w: -7.2298403}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.000040650866, y: 0.76524556, z: 0.0005001257, w: 0.6437383}
+        inSlope: {x: 0.0026272011, y: 11.355461, z: 0.026951479, w: -5.1989408}
+        outSlope: {x: 0.0026272011, y: 11.355461, z: 0.026951479, w: -5.1989408}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.00013117377, y: 0.720018, z: 0.00038394175, w: 0.6645776}
+        inSlope: {x: -0.0075315107, y: 15.658108, z: 0.021268964, w: -7.2416215}
+        outSlope: {x: -0.0075315107, y: 15.658108, z: 0.021268964, w: -7.2416215}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.00015890747, y: 0.76525974, z: 0.0004619176, w: 0.6437214}
+        inSlope: {x: -0.00915249, y: 11.370972, z: 0.02563447, w: -5.2173414}
+        outSlope: {x: -0.00915249, y: 11.370972, z: 0.02563447, w: -5.2173414}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.00025780388, y: 0.71998256, z: 0.00030489918, w: 0.6646189}
+        inSlope: {x: -0.014609294, y: 15.666163, z: 0.016690083, w: -7.2510047}
+        outSlope: {x: -0.014609294, y: 15.666163, z: 0.016690083, w: -7.2510047}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.0003115141, y: 0.76525885, z: 0.00036597173, w: 0.6437225}
+        inSlope: {x: -0.017700318, y: 11.3837805, z: 0.020044044, w: -5.2322555}
+        outSlope: {x: -0.017700318, y: 11.3837805, z: 0.020044044, w: -5.2322555}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.00031712625, y: 0.71995246, z: 0.00009071124, w: 0.66465414}
+        inSlope: {x: -0.017903952, y: 15.67283, z: 0.0047726617, w: -7.258777}
+        outSlope: {x: -0.017903952, y: 15.67283, z: 0.0047726617, w: -7.258777}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.00038291604, y: 0.76525736, z: 0.000108078064, w: 0.6437244}
+        inSlope: {x: -0.021671705, y: 11.394389, z: 0.005671717, w: -5.244624}
+        outSlope: {x: -0.021671705, y: 11.394389, z: 0.005671717, w: -5.244624}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16/flaga_pionowa_b17
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.00021732063, y: 0.71993065, z: -0.00017361363, w: 0.66467965}
+        inSlope: {x: -0.012203091, y: 15.678609, z: -0.009973899, w: -7.2655272}
+        outSlope: {x: -0.012203091, y: 15.678609, z: -0.009973899, w: -7.2655272}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.00026212918, y: 0.7652602, z: -0.00021034683, w: 0.643721}
+        inSlope: {x: -0.014750866, y: 11.40351, z: -0.0121241, w: -5.2552795}
+        outSlope: {x: -0.014750866, y: 11.40351, z: -0.0121241, w: -5.2552795}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16/flaga_pionowa_b17/flaga_pionowa_b18
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00004954193, y: 0.7199098, z: -0.000331462, w: 0.66470397}
+        inSlope: {x: 0.0027411815, y: 15.683417, z: -0.018631658, w: -7.2711654}
+        outSlope: {x: 0.0027411815, y: 15.683417, z: -0.018631658, w: -7.2711654}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.00005958768, y: 0.76526, z: -0.00039988683, w: 0.64372116}
+        inSlope: {x: 0.0033014014, y: 11.411147, z: -0.022528507, w: -5.264232}
+        outSlope: {x: 0.0033014014, y: 11.411147, z: -0.022528507, w: -5.264232}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16/flaga_pionowa_b17/flaga_pionowa_b18/flaga_pionowa_b19
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00028781002, y: 0.7198915, z: -0.0002884989, w: 0.66472536}
+        inSlope: {x: 0.016072327, y: 15.687496, z: -0.015923928, w: -7.2759433}
+        outSlope: {x: 0.016072327, y: 15.687496, z: -0.015923928, w: -7.2759433}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.0003467862, y: 0.7652592, z: -0.00034683474, w: 0.64372206}
+        inSlope: {x: 0.019403366, y: 11.417627, z: -0.019165117, w: -5.271834}
+        outSlope: {x: 0.019403366, y: 11.417627, z: -0.019165117, w: -5.271834}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16/flaga_pionowa_b17/flaga_pionowa_b18/flaga_pionowa_b19/flaga_pionowa_b20
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0004027221, y: 0.71989006, z: 0.00003587752, w: 0.66472715}
+        inSlope: {x: 0.022458963, y: 15.687403, z: 0.0020600276, w: -7.2758455}
+        outSlope: {x: 0.022458963, y: 15.687403, z: 0.0020600276, w: -7.2758455}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.00048511347, y: 0.7652574, z: 0.000043462987, w: 0.6437242}
+        inSlope: {x: 0.02710126, y: 11.41752, z: 0.0025032233, w: -5.271715}
+        outSlope: {x: 0.02710126, y: 11.41752, z: 0.0025032233, w: -5.271715}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16/flaga_pionowa_b17/flaga_pionowa_b18/flaga_pionowa_b19/flaga_pionowa_b20/flaga_pionowa_b21
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -10.270681, y: 38.651302, z: 8.04519}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -10.270681, y: 38.651302, z: 8.04519}
+        inSlope: {x: -7.612958e-14, y: 3.0451832e-13, z: 1.7763566e-13}
+        outSlope: {x: -1.7763566e-13, y: 7.1054263e-13, z: 7.612958e-14}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: -0.0000015258788, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0, y: -0.0000015258788, z: 0}
+        inSlope: {x: -0, y: -9.075353e-21, z: -0}
+        outSlope: {x: -0, y: -2.117582e-20, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6814486, y: -0.00000071754437, z: -0.000000014495977}
+        inSlope: {x: 0.000066161156, y: -0.000015678408, z: 0.000008468639}
+        outSlope: {x: 0.000066161156, y: -0.000015678408, z: 0.000008468639}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.68144834, y: -0.0000007629394, z: 0}
+        inSlope: {x: 0.000055789926, y: -0.0000114440845, z: -1.0719043e-12}
+        outSlope: {x: 0.00004768371, y: -0.000011444099, z: -1.2797889e-11}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6814515, y: 0.000000030899056, z: 0.0000029628745}
+        inSlope: {x: 0.00003129244, y: -0.000007209771, z: 0.000041084346}
+        outSlope: {x: 0.00003129244, y: -0.000007209771, z: 0.000041084346}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.6814514, y: 0, z: 0.0000030517576}
+        inSlope: {x: 0.0000493867, y: -0.00001144409, z: 0.000011444117}
+        outSlope: {x: 0.00004046302, y: -0.000011444105, z: 0.000011444054}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6814544, y: 0.000000030899056, z: -0.0000014968869}
+        inSlope: {x: 0, y: -0.000007209771, z: -0.00001693728}
+        outSlope: {x: 0, y: -0.000007209771, z: -0.00001693728}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.6814544, y: 0, z: -0.0000015258788}
+        inSlope: {x: -2.3790494e-15, y: -0.00001144409, z: 2.1438086e-12}
+        outSlope: {x: -5.5511143e-15, y: -0.000011444107, z: 1.9911435e-11}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6814515, y: 0, z: 0.0000029937737}
+        inSlope: {x: 0.00003129244, y: 0, z: 0.00003387456}
+        outSlope: {x: 0.00003129244, y: 0, z: 0.00003387456}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.6814514, y: 0, z: 0.0000030517576}
+        inSlope: {x: 0.0000493867, y: -0, z: -4.287617e-12}
+        outSlope: {x: 0.00004046302, y: -0, z: -3.982287e-11}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6814515, y: -0.0000007793425, z: -0.00000006179811}
+        inSlope: {x: 0.00003129244, y: -0.0000012588696, z: 0.000014419542}
+        outSlope: {x: 0.00003129244, y: -0.0000012588696, z: 0.000014419542}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.6814514, y: -0.0000007629394, z: 0}
+        inSlope: {x: 0.0000493867, y: 0.000011444089, z: 0.00002288818}
+        outSlope: {x: 0.00004046302, y: 0.000011444117, z: 0.000022888215}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6814484, y: -0.000000030899056, z: -0.0000016204831}
+        inSlope: {x: 0.000034868717, y: 0.000007209771, z: 0.0000119018105}
+        outSlope: {x: 0.000034868717, y: 0.000007209771, z: 0.0000119018105}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.68144834, y: 0, z: -0.0000015258788}
+        inSlope: {x: 0.0000012942585, y: 0.00001144409, z: 0.000045776367}
+        outSlope: {x: -0.0000029972457, y: 0.000011444104, z: 0.00004577644}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.68145216, y: 0.000000030899056, z: 0}
+        inSlope: {x: -0.000007152557, y: -0.000007209771, z: 0}
+        outSlope: {x: -0.000007152557, y: -0.000007209771, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.68145216, y: 0, z: 0}
+        inSlope: {x: 0.000004359657, y: -0.00001144409, z: -0}
+        outSlope: {x: -0.0000009536788, y: -0.000011444107, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6814513, y: 0.000000030899056, z: 0}
+        inSlope: {x: 0.000004470348, y: -0.000007209771, z: 0}
+        outSlope: {x: 0.000004470348, y: -0.000007209771, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.6814514, y: 0, z: 0}
+        inSlope: {x: -0.000048092443, y: -0.00001144409, z: -0}
+        outSlope: {x: -0.000045163255, y: -0.000011444107, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6814506, y: 0, z: 0.00000012359622}
+        inSlope: {x: 0.0000062584872, y: 0, z: -0.000028839084}
+        outSlope: {x: 0.0000062584872, y: 0, z: -0.000028839084}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.6814506, y: 0, z: 0}
+        inSlope: {x: -0.000004359657, y: -0, z: -0.00004577636}
+        outSlope: {x: 0.0000009536767, y: 3.313159e-12, z: -0.00004577643}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.68145406, y: 0, z: 0.00000087203966}
+        inSlope: {x: -0.00011980533, y: 0, z: -0.000020370448}
+        outSlope: {x: -0.00011980533, y: 0, z: -0.000020370448}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.6814544, y: 0, z: 0.0000007629394}
+        inSlope: {x: -0.00008262903, y: -0, z: -0.000045776364}
+        outSlope: {x: -0.000097070406, y: 3.313159e-12, z: -0.000045776444}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6814514, y: 0.000000030899056, z: -0.0000028247823}
+        inSlope: {x: 0, y: -0.000007209771, z: -0.00007839207}
+        outSlope: {x: 0, y: -0.000007209771, z: -0.00007839207}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.6814514, y: 0, z: -0.0000030517576}
+        inSlope: {x: -7.137148e-15, y: -0.00001144409, z: -0.000057220474}
+        outSlope: {x: 0.0000017029911, y: -0.000011444104, z: -0.000057220408}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.68145436, y: -0.000000030899056, z: 0}
+        inSlope: {x: -0.000035762783, y: 0.000007209771, z: 0}
+        outSlope: {x: -0.000035762783, y: 0.000007209771, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.6814544, y: 0, z: 0}
+        inSlope: {x: -0.0000012942585, y: 0.00001144409, z: -0}
+        outSlope: {x: 0.000004700237, y: 0.000011444107, z: -1.3252636e-11}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6814484, y: -0.000036606594, z: -0.000036575693}
+        inSlope: {x: 0.000034868717, y: -0.000008468614, z: -0.000015678634}
+        outSlope: {x: 0.000034868717, y: -0.000008468614, z: -0.000015678634}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.68144834, y: -0.00003662109, z: -0.00003662109}
+        inSlope: {x: 0.0000012942585, y: 1.1151054e-10, z: -0.000011444449}
+        outSlope: {x: -0.0000029972457, y: 4.0785963e-10, z: -0.00001144456}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6814499, y: 0.00000009079007, z: 0.0000030082697}
+        inSlope: {x: 0.000017881392, y: -0.000031356823, z: 0.00002540593}
+        outSlope: {x: 0.000017881392, y: -0.000031356823, z: 0.00002540593}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.68144983, y: 0, z: 0.0000030517576}
+        inSlope: {x: 0.000003201614, y: -0.00002288818, z: 9.777067e-12}
+        outSlope: {x: 0.00000020436633, y: -0.000022888185, z: -4.1576895e-11}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6814574, y: 0, z: -0.0000014968869}
+        inSlope: {x: -0.000034868717, y: 0, z: -0.00001693728}
+        outSlope: {x: -0.000034868717, y: 0, z: -0.00001693728}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.68145746, y: 0, z: -0.0000015258788}
+        inSlope: {x: -0.0000012942585, y: -0, z: 2.1438086e-12}
+        outSlope: {x: 0.0000042233974, y: -0, z: 3.384619e-11}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6814515, y: 0.000000030899056, z: 0.000000030899056}
+        inSlope: {x: 0.00003129244, y: -0.000007209771, z: -0.000007209771}
+        outSlope: {x: 0.00003129244, y: -0.000007209771, z: -0.000007209771}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.6814514, y: 0, z: 0}
+        inSlope: {x: 0.0000493867, y: -0.00001144409, z: -0.00001144409}
+        outSlope: {x: 0.00004046302, y: -0.000011444104, z: -0.000011444124}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.68145436, y: -0.0000007484434, z: 0.0000007484434}
+        inSlope: {x: -0.000035762783, y: -0.00000846864, z: 0.00000846864}
+        outSlope: {x: -0.000035762783, y: -0.00000846864, z: 0.00000846864}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.6814544, y: -0.0000007629394, z: 0.0000007629394}
+        inSlope: {x: -0.0000012942585, y: 1.0719043e-12, z: -1.0719043e-12}
+        outSlope: {x: 0.000004700237, y: 9.955718e-12, z: -9.955718e-12}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16/flaga_pionowa_b17
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6814513, y: -0.000000045395034, z: 0}
+        inSlope: {x: -0.000034868717, y: 0.000015678412, z: 0}
+        outSlope: {x: -0.000034868717, y: 0.000015678412, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.6814514, y: 0, z: 0}
+        inSlope: {x: -0.0000012942585, y: 0.00001144409, z: -0}
+        outSlope: {x: 0.0000029972457, y: 0.000011444093, z: -6.626318e-12}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16/flaga_pionowa_b17/flaga_pionowa_b18
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6814514, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.6814514, y: 0, z: 0}
+        inSlope: {x: -7.137148e-15, y: -0, z: -0}
+        outSlope: {x: 0.000001702989, y: 3.313159e-12, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16/flaga_pionowa_b17/flaga_pionowa_b18/flaga_pionowa_b19
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.68145424, y: -0.000000030899056, z: -0.0000030391686}
+        inSlope: {x: -0.00004649162, y: 0.000007209771, z: -0.000018196168}
+        outSlope: {x: -0.00004649162, y: 0.000007209771, z: -0.000018196168}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.6814544, y: 0, z: -0.0000030517576}
+        inSlope: {x: -0.000047479345, y: 0.00001144409, z: 0.000011444057}
+        outSlope: {x: -0.000040667386, y: 0.000011444105, z: 0.000011444106}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16/flaga_pionowa_b17/flaga_pionowa_b18/flaga_pionowa_b19/flaga_pionowa_b20
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.68145126, y: -0.000000030899056, z: 0}
+        inSlope: {x: -0.000030398367, y: 0.000007209771, z: 0}
+        outSlope: {x: -0.000030398367, y: 0.000007209771, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: -0.6814514, y: 0, z: 0}
+        inSlope: {x: -0.0000219345, y: 0.00001144409, z: -0}
+        outSlope: {x: -0.000028950824, y: 0.000011444107, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16/flaga_pionowa_b17/flaga_pionowa_b18/flaga_pionowa_b19/flaga_pionowa_b20/flaga_pionowa_b21
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 0.99973595}
+        inSlope: {x: 0, y: 0, z: 0.06161749}
+        outSlope: {x: 0, y: 0, z: 0.06161749}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0.09780585}
+        outSlope: {x: 0, y: 0, z: 0.09780585}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000002, y: 1.0000002, z: 1}
+        inSlope: {x: 0.0000053644176, y: 0.000007152557, z: 0.0000017881392}
+        outSlope: {x: 0.0000053644176, y: 0.000007152557, z: 0.0000017881392}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.0000002, y: 1.0000002, z: 1}
+        inSlope: {x: 0.0000053644176, y: 0.000008940696, z: 0.0000017881392}
+        outSlope: {x: 0.0000053644176, y: 0.000008940696, z: 0.0000017881392}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99999994, y: 1.0000002, z: 1.0000002}
+        inSlope: {x: -0.0000017881392, y: 0.000007152557, z: 0.0000035762785}
+        outSlope: {x: -0.0000017881392, y: 0.000007152557, z: 0.0000035762785}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.99999994, y: 1.0000002, z: 1.0000002}
+        inSlope: {x: -0.0000008940696, y: 0.000007152557, z: 0.0000017881392}
+        outSlope: {x: -0.0000008940696, y: 0.000007152557, z: 0.0000017881392}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9999998, y: 0.9999994, z: 1}
+        inSlope: {x: 0.0000017881392, y: 0, z: 0.0000017881392}
+        outSlope: {x: 0.0000017881392, y: 0, z: 0.0000017881392}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.9999998, y: 0.9999994, z: 1}
+        inSlope: {x: 0.000005364418, y: 0.0000071525583, z: 0.0000017881392}
+        outSlope: {x: 0.000005364418, y: 0.0000071525583, z: 0.0000017881392}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000001, y: 0.99999994, z: 0.9999998}
+        inSlope: {x: 0.0000053644176, y: 0.0000035762785, z: 0.0000035762785}
+        outSlope: {x: 0.0000053644176, y: 0.0000035762785, z: 0.0000035762785}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.0000001, y: 0.99999994, z: 0.9999998}
+        inSlope: {x: 0.0000053644176, y: 0.0000071525574, z: 0.0000071525565}
+        outSlope: {x: 0.0000053644176, y: 0.0000071525574, z: 0.0000071525565}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1.0000001, z: 1.0000005}
+        inSlope: {x: -0.000007152557, y: -0.0000053644176, z: 0.0000017881392}
+        outSlope: {x: -0.000007152557, y: -0.0000053644176, z: 0.0000017881392}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1, y: 1.0000001, z: 1.0000005}
+        inSlope: {x: -0.000010728835, y: -0.0000125169745, z: -0.0000053644176}
+        outSlope: {x: -0.000010728835, y: -0.0000125169745, z: -0.0000053644176}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000002, y: 1.0000006, z: 1.0000008}
+        inSlope: {x: 0.0000035762785, y: 0.0000017881392, z: 0.0000125169745}
+        outSlope: {x: 0.0000035762785, y: 0.0000017881392, z: 0.0000125169745}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.0000002, y: 1.0000006, z: 1.0000008}
+        inSlope: {x: 0.0000035762785, y: -0.0000035762782, z: 0.0000035762787}
+        outSlope: {x: 0.0000035762785, y: -0.0000035762782, z: 0.0000035762787}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000004, y: 0.99999964, z: 1.0000001}
+        inSlope: {x: 0.000008940696, y: 0.0000053644176, z: 0.0000017881392}
+        outSlope: {x: 0.000008940696, y: 0.0000053644176, z: 0.0000017881392}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.0000004, y: 0.9999997, z: 1.0000001}
+        inSlope: {x: 0.000008940696, y: 0.0000125169745, z: 0}
+        outSlope: {x: 0.000008940696, y: 0.0000125169745, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.000001, y: 0.9999997, z: 1.0000002}
+        inSlope: {x: 0.000016093254, y: -0.0000017881392, z: 0.0000017881392}
+        outSlope: {x: 0.000016093254, y: -0.0000017881392, z: 0.0000017881392}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.000001, y: 0.9999997, z: 1.0000002}
+        inSlope: {x: 0.000007152557, y: 0.0000035762791, z: 0}
+        outSlope: {x: 0.000007152557, y: 0.0000035762791, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000008, y: 1.0000008, z: 1.0000002}
+        inSlope: {x: 0.000010728835, y: 0.000016093254, z: 0.0000053644176}
+        outSlope: {x: 0.000010728835, y: 0.000016093254, z: 0.0000053644176}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.0000008, y: 1.0000008, z: 1.0000002}
+        inSlope: {x: 0.0000017881393, y: 0.000008940696, z: 0.0000053644176}
+        outSlope: {x: 0.0000017881393, y: 0.000008940696, z: 0.0000053644176}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000012, y: 1.0000008, z: 1.000001}
+        inSlope: {x: 0.0000125169745, y: 0.000014305114, z: 0.000037550923}
+        outSlope: {x: 0.0000125169745, y: 0.000014305114, z: 0.000037550923}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.0000012, y: 1.0000008, z: 1.0000011}
+        inSlope: {x: -0.0000035762787, y: 0.0000053644176, z: 0.000039339066}
+        outSlope: {x: -0.0000035762787, y: 0.0000053644176, z: 0.000039339066}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000006, y: 0.99999994, z: 1.0000007}
+        inSlope: {x: 0.000008940696, y: -0.0000035762785, z: 0.000010728835}
+        outSlope: {x: 0.000008940696, y: -0.0000035762785, z: 0.000010728835}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.0000006, y: 0.99999994, z: 1.0000007}
+        inSlope: {x: 0.000005364417, y: -0.0000017881392, z: 0.0000053644176}
+        outSlope: {x: 0.000005364417, y: -0.0000017881392, z: 0.0000053644176}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000013, y: 1.0000004, z: 1.0000013}
+        inSlope: {x: 0.000010728835, y: 0.000010728835, z: 0.0000125169745}
+        outSlope: {x: 0.000010728835, y: 0.000010728835, z: 0.0000125169745}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.0000013, y: 1.0000004, z: 1.0000013}
+        inSlope: {x: -0.0000062584877, y: 0.000010728835, z: -0.0000035762787}
+        outSlope: {x: -0.0000062584877, y: 0.000010728835, z: -0.0000035762787}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000014, y: 1.0000004, z: 1.0000004}
+        inSlope: {x: 0.000008940696, y: 0.000017881392, z: 0.0000035762785}
+        outSlope: {x: 0.000008940696, y: 0.000017881392, z: 0.0000035762785}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.0000014, y: 1.0000004, z: 1.0000004}
+        inSlope: {x: -0.000010728838, y: 0.000021457672, z: 0}
+        outSlope: {x: -0.000010728838, y: 0.000021457672, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000002, y: 0.99999994, z: 1.0000008}
+        inSlope: {x: 0.000017881392, y: 0.0000017881392, z: 0.000017881392}
+        outSlope: {x: 0.000017881392, y: 0.0000017881392, z: 0.000017881392}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.0000002, y: 0.99999994, z: 1.0000008}
+        inSlope: {x: 0.000019669531, y: 0.0000035762785, z: 0.000019669531}
+        outSlope: {x: 0.000019669531, y: 0.0000035762785, z: 0.000019669531}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000011, y: 1, z: 1.0000015}
+        inSlope: {x: 0.000035762783, y: 0.0000053644176, z: 0.000030398367}
+        outSlope: {x: 0.000035762783, y: 0.0000053644176, z: 0.000030398367}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.0000012, y: 1, z: 1.0000017}
+        inSlope: {x: 0.000030398365, y: 0.0000008940697, z: 0.000012516977}
+        outSlope: {x: 0.000030398365, y: 0.0000008940697, z: 0.000012516977}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000008, y: 1.0000008, z: 1.0000008}
+        inSlope: {x: -0.0000125169745, y: 0.0000125169745, z: -0.000008940696}
+        outSlope: {x: -0.0000125169745, y: 0.0000125169745, z: -0.000008940696}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.0000007, y: 1.0000008, z: 1.0000008}
+        inSlope: {x: -0.00002324581, y: 0.000008940696, z: -0.0000053644176}
+        outSlope: {x: -0.00002324581, y: 0.000008940696, z: -0.0000053644176}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000008, y: 1.0000008, z: 1.0000008}
+        inSlope: {x: 0.000008940696, y: 0.000032186508, z: 0.000007152557}
+        outSlope: {x: 0.000008940696, y: 0.000032186508, z: 0.000007152557}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.0000008, y: 1.000001, z: 1.0000008}
+        inSlope: {x: 0.0000017881389, y: 0.00002771616, z: 0}
+        outSlope: {x: 0.0000017881389, y: 0.00002771616, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9999999, y: 1.0000002, z: 0.9999996}
+        inSlope: {x: -0.000017881392, y: 0.0000035762785, z: -0.000028610228}
+        outSlope: {x: -0.000017881392, y: 0.0000035762785, z: -0.000028610228}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 0.9999998, y: 1.0000002, z: 0.9999995}
+        inSlope: {x: -0.000005364419, y: 0.0000071525565, z: -0.000010728836}
+        outSlope: {x: -0.000005364419, y: 0.0000071525565, z: -0.000010728836}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16/flaga_pionowa_b17
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000004, y: 1.0000002, z: 0.99999994}
+        inSlope: {x: -0.000026822088, y: 0.00002324581, z: 0.0000017881392}
+        outSlope: {x: -0.000026822088, y: 0.00002324581, z: 0.0000017881392}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.0000002, y: 1.0000004, z: 0.99999994}
+        inSlope: {x: -0.00002413988, y: 0.000028610228, z: 0.000007152557}
+        outSlope: {x: -0.00002413988, y: 0.000028610228, z: 0.000007152557}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16/flaga_pionowa_b17/flaga_pionowa_b18
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000011, y: 0.9999985, z: 1.0000033}
+        inSlope: {x: 0.000025033949, y: 0, z: 0.00004827976}
+        outSlope: {x: 0.000025033949, y: 0, z: 0.00004827976}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.0000012, y: 0.9999985, z: 1.0000035}
+        inSlope: {x: 0.00002145767, y: 0.000028610228, z: 0.000026822087}
+        outSlope: {x: 0.00002145767, y: 0.000028610228, z: 0.000026822087}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16/flaga_pionowa_b17/flaga_pionowa_b18/flaga_pionowa_b19
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.000002, y: 1.0000004, z: 0.99999994}
+        inSlope: {x: 0.000032186508, y: 0.0000017881392, z: -0.0000017881392}
+        outSlope: {x: 0.000032186508, y: 0.0000017881392, z: -0.0000017881392}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.0000021, y: 1.0000004, z: 0.99999994}
+        inSlope: {x: 0.000016093254, y: 0.000005364417, z: 0.0000053644176}
+        outSlope: {x: 0.000016093254, y: 0.000005364417, z: 0.0000053644176}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16/flaga_pionowa_b17/flaga_pionowa_b18/flaga_pionowa_b19/flaga_pionowa_b20
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000002, y: 0.99999774, z: 1.0000007}
+        inSlope: {x: -0.0000035762785, y: -0.00004291534, z: 0.0000017881392}
+        outSlope: {x: -0.0000035762785, y: -0.00004291534, z: 0.0000017881392}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.0033333357
+        value: {x: 1.0000002, y: 0.9999977, z: 1.0000007}
+        inSlope: {x: -0.0000062584872, y: -0.000008940697, z: -0.0000035762782}
+        outSlope: {x: -0.0000062584872, y: -0.000008940697, z: -0.0000035762782}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: flaga_pionowa_p/flaga_pionowa_b00/flaga_pionowa_b01/flaga_pionowa_b02/flaga_pionowa_b03/flaga_pionowa_b04/flaga_pionowa_b05/flaga_pionowa_b06/flaga_pionowa_b07/flaga_pionowa_b08/flaga_pionowa_b09/flaga_pionowa_b10/flaga_pionowa_b11/flaga_pionowa_b12/flaga_pionowa_b13/flaga_pionowa_b14/flaga_pionowa_b15/flaga_pionowa_b16/flaga_pionowa_b17/flaga_pionowa_b18/flaga_pionowa_b19/flaga_pionowa_b20/flaga_pionowa_b21
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: -10.269405, y: 38.39884, z: 8.334547}
+    m_Extent: {x: 1.8367596, y: 0.546051, z: 0.4618168}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []

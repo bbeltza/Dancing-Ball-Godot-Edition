@@ -1,0 +1,90 @@
+SEVİYE
+Combo
+Başlangıç
+Okyanus
+Ada
+Kale
+Çöl
+Lav
+Kış
+Mağara
+Bu seviyenini kilidini açmak için öncekileri tamamlayın.
+Geçici Aç
+Ayarlar
+Satın almaları geri yükle
+Müzik:
+açık
+kapalı
+sesler:
+tanıtım materyalini göster
+Kalan Toplar
+Şurada yeni top:
+Sınırsız Top
+İlave Top
+SEVİYE
+Seviyeyi yükseltmek için görevleri tamamlayın.
+Tüm görevleri tamamlayın ve ilave alın
+KALAN SÜRE:
+kol saati reklamını atla
+Duraklat
+menü
+yeniden başlat
+sürdür
+Yüksek puan
+yeni en iyi!
+Tanıtım
+Taçları almak için mükemmel şekilde dokun!
+Kötü
+Mükemmel!
+İyi
+"_LEVEL_NAME_" de _VALUE_% al
+Aşırı "_LEVEL_NAME_" de _VALUE_% al
+"_LEVEL_NAME_" de _VALUE_ taçları al
+"_LEVEL_NAME_" i müziksiz bitir
+"_LEVEL_NAME_" de _VALUE_ karması yap
+Aşırı "_LEVEL_NAME_" de _VALUE_ karması yap
+_VALUE_ yu döndür
+_VALUE_ çinileri gez
+_VALUE_ mükemmel (altın) dokunuş yap
+_VALUE_ kötü (kırmızı) dokunuş yap
+_VALUE_ orta (turuncu) dokunuş yap
+_VALUE_ sıçrama yap
+_VALUE_ ışınlama yap
+BEST DEAL!
+En iyi deneyim için kulaklık kullan!
+Müziğe dikkat et!
+Müziğin sesi açıkken oyna!
+Bu oyun, müziğin sesi açıkken oynanmak üzere hazırlanmıştır!
+Daha iyi bir deneyim için doğru ses seviyesini ayarla!
+Dinleyin, Dokunun ve Müziği Hissedin...
+... Çok Sayıda Seviyeyi Keşfedin 
+...Beklenmeyen Dönüşleri ve Virajları Aşın
+...Harika Oyun Müziğinin Keyfini Çıkarın!
+Ritme Ayak Uydurun
+Unlock
+Equip
+Unequip
+Diamonds Store
+Would you like to recieve new missions notification and get more chances to open <color=#ffff00ff>cool chests</color>?
+Yes
+No
+Dil
+Exit
+Do you want to exit the game?
+Open Chest
+missions
+collect
+SKIP
+New missions available! Play now to open chest with gems!
+New missions available in:
+Congratulations!
+Do you like Dancing Ball?
+Rate Me!
+Give us 5 stars for <color=#00ff00ff>FREE</color> updates
+new highscore!
+Full "Perfect" streak
+temporary unlocked
+FREE
+video ad
+SHARE
+show leaderboards

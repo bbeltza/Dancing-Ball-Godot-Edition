@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cemyp0jfhsfi1"
+path="res://.godot/imported/highscore.ogg-90c4005d96b24ed1904460dc63bdddec.oggvorbisstr"
+
+[deps]
+
+source_file="res://Resources/audio/sfx/UI SFX/highscore.ogg"
+dest_files=["res://.godot/imported/highscore.ogg-90c4005d96b24ed1904460dc63bdddec.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

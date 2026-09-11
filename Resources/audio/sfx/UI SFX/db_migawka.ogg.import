@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cr02f3xphuuja"
+path="res://.godot/imported/db_migawka.ogg-8a571957dd61a4173c1e69bfed176847.oggvorbisstr"
+
+[deps]
+
+source_file="res://Resources/audio/sfx/UI SFX/db_migawka.ogg"
+dest_files=["res://.godot/imported/db_migawka.ogg-8a571957dd61a4173c1e69bfed176847.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

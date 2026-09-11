@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://btt41ryrp4vsa"
+path="res://.godot/imported/unlock_klodka.ogg-a5e23b813cd0bd24534cded9e595302a.oggvorbisstr"
+
+[deps]
+
+source_file="res://Resources/audio/sfx/UI SFX/unlock_klodka.ogg"
+dest_files=["res://.godot/imported/unlock_klodka.ogg-a5e23b813cd0bd24534cded9e595302a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

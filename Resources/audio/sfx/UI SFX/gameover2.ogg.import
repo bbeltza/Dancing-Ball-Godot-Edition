@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://d2g222faud4ex"
+path="res://.godot/imported/gameover2.ogg-a5971bc059a694acaf87fcd0a242f21f.oggvorbisstr"
+
+[deps]
+
+source_file="res://Resources/audio/sfx/UI SFX/gameover2.ogg"
+dest_files=["res://.godot/imported/gameover2.ogg-a5971bc059a694acaf87fcd0a242f21f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
